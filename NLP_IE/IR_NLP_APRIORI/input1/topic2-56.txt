@@ -1,0 +1,1 @@
+How do I compress a file?,"Run the free program gzip, which you can download from http://www.gzip.org/ Even though you didn't specify which machine you're on, you can almost certainly use gzip, which will work on all the important OS's."

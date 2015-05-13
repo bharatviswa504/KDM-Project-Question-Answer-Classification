@@ -1,0 +1,341 @@
+import java.io.BufferedReader;
+
+
+import java.util.*;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.Reader;
+import java.io.StringReader;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.util.HashMap;
+import java.util.List;
+
+import opennlp.tools.cmdline.PerformanceMonitor;
+import opennlp.tools.cmdline.postag.POSModelLoader;
+import opennlp.tools.postag.POSModel;
+import opennlp.tools.postag.POSSample;
+import opennlp.tools.postag.POSTaggerME;
+import opennlp.tools.tokenize.Tokenizer;
+import opennlp.tools.tokenize.TokenizerME;
+import opennlp.tools.tokenize.TokenizerModel;
+import opennlp.tools.tokenize.WhitespaceTokenizer;
+import opennlp.tools.util.InvalidFormatException;
+import opennlp.tools.util.ObjectStream;
+import opennlp.tools.util.PlainTextByLineStream;
+import opennlp.tools.util.Span;
+import opennlp.tools.chunker.*;
+import rita.wordnet.*;
+import dragon.nlp.tool.lemmatiser.*;
+public class ExtractionPhase {
+	public static void main(String args[]) throws InvalidFormatException, IOException
+	{
+		
+		//Before start deleting old output generated file
+		File output = new File("Output.csv");
+		output.delete();
+		System.out.println("POS Tagger");
+		extractTokens();
+		System.out.println("End of POS Tagger");
+		
+		tfIdfComponent();
+	
+	}
+	
+	public static void tfIdfComponent()
+	{
+		
+		
+		
+		
+		//TFIdf output File
+		String tfIdfOutputFile ="output//TfIdf_ALGORITHM.txt";
+		
+		
+		try {
+		
+			FileReader tfidfFile = new FileReader(tfIdfOutputFile);
+			BufferedReader br = new BufferedReader(tfidfFile);
+			String readLine ="";
+			
+			int counter = 0;
+			int topMostWordCount = 1500;
+			int k=0;
+			
+			HashMap tfIdfWordMap = new HashMap();
+			while((readLine = br.readLine()) != null)
+			{
+				if(counter==topMostWordCount)
+					break;
+				readLine = readLine.replace("|", ",");
+				String tokens[] = readLine.split(",");
+				for(k=0;k<tokens.length-1;k++)
+				{			
+					tfIdfWordMap.put(tokens[k], 1);
+				}
+				
+				tokens[k] = tokens[k].replace("\t\t\t",",");
+				String tokens1[] = tokens[k].split(",");
+				tfIdfWordMap.put(tokens1[0], 1);
+			
+				counter++;
+			}
+			
+			String outputFile = "output/Output.csv";
+			BufferedReader br1 = null;
+			String cvsSplitBy = ",";
+			FileReader outputReader = new FileReader(outputFile);
+			br1 = new BufferedReader(outputReader);
+			
+			
+			String finalOutputFile = "output/FinalOutput.csv";
+			
+			FileWriter writer = new FileWriter(finalOutputFile);
+			 
+			
+			while((readLine = br1.readLine()) != null)
+			{
+				String[] nlpTokens = readLine.split(cvsSplitBy);
+				for(int i=0;i<nlpTokens.length;i++)
+				{
+					if(tfIdfWordMap.containsKey(nlpTokens[i]))
+					{
+						writer.append(nlpTokens[i]);
+						writer.append(",");
+					}
+				}
+				writer.append("\n");
+			}
+			
+			writer.flush();
+			writer.close();
+			
+		}
+		catch(Exception e)
+		{
+			System.out.println(e.getMessage());
+		}
+		System.out.println("done");
+	}
+		
+		
+
+	
+	public static void extractTokens() throws IOException {
+		
+		
+		
+	//	RiWordnet wordnet = new RiWordnet(null);
+		//Parts of Speech
+		POSModel model = new POSModelLoader()	
+			.load(new File("en-pos-maxent.bin"));
+		
+		//Chunker
+		InputStream chunkerStream = new FileInputStream("en-chunker.bin");
+		ChunkerModel chunkerModel = new ChunkerModel(chunkerStream);
+	 
+		ChunkerME chunkerMe = new ChunkerME(chunkerModel);
+		
+		
+		// Tokenizer
+		InputStream is = new FileInputStream("en-token.bin");
+		 
+		TokenizerModel tokenModel = new TokenizerModel(is);
+	 
+		Tokenizer tokenizer = new TokenizerME(tokenModel);
+	
+		
+		PerformanceMonitor perfMon = new PerformanceMonitor(System.err, "sent");
+		POSTaggerME tagger = new POSTaggerME(model);
+	 
+		
+		
+		
+		//BufferedReader br = null;
+	//	br = new BufferedReader(new FileReader(csvInputFile));
+		
+		
+		
+		String OutputFiles ="output\\Output";
+		int fileCount =1;
+		String iteratorFile = "";
+		
+		String inputFile="input\\input";
+		String inputIterator = "";
+		
+		
+		String csvOutputFile = "output/Output.csv";
+		FileWriter outputWriterCsv = new FileWriter(csvOutputFile);
+		
+
+		
+		String input;
+		perfMon.start();
+		//VB VBG VBD VBN VBP VBZ
+		String neededPos= "JJ JJR JJ NN NNP NNPS  RB RBR RBS";
+		
+		String wordnetPos = "JJ JJR JJ RB RBR RBS";
+		
+		
+		String doc = "Doc";
+		int docCounter = 1;
+		
+				
+		for(int m=0;m<45;m++)
+		{
+			inputIterator = inputFile + fileCount + ".txt";
+			File file = new File(inputIterator);
+			FileInputStream fis = new FileInputStream(file);
+			byte[] data = new byte[(int) file.length()];
+			fis.read(data);
+			fis.close();
+
+			input = new String(data, "UTF-8");
+
+			
+		
+			iteratorFile = OutputFiles + fileCount +".txt";
+			FileWriter outputWriter = new FileWriter(iteratorFile);
+		//	input = "sicker playing";
+			String tokens[] = tokenizer.tokenize(input);
+			
+			String[] tags = tagger.tag(tokens);
+			
+			Lemmatize lemmatize = new Lemmatize();
+			
+	//		RiWordnet wordnet = new RiWordnet(null);
+			
+			
+			HashMap<String,String[]> synonymsMap = new HashMap<String,String[]>();
+			
+			for(int i=0;i<tokens.length;i++)
+			{
+				if(neededPos.contains(tags[i])) {
+				tokens[i]= lemmatize.getLemma(tokens[i], tags[i]);
+			//	synonymsMap.put(tokens[i], wordnet.getAllSynonyms(tokens[i],tags[i]));
+				}
+			}
+				
+			
+			/*
+			for(String result:tags)
+				System.out.print(result + "   ");
+				*/
+	
+			String[] chunkerPos = chunkerMe.chunk(tokens, tags);
+			
+			/*
+			for(int i=0;i<chunkerPos.length;i++)
+				System.out.println(chunkerPos[i] + "   " +  tokens[i]);
+			*/
+			
+			Span[] span = chunkerMe.chunkAsSpans(tokens, tags);
+			String[] chunkStrings = Span.spansToStrings(span, tokens);
+		
+			/*
+			System.out.println("Bharat");
+			for(int i=0;i<chunkStrings.length;i++)
+				System.out.println(chunkStrings[i] +"  " + tags[i]);
+			
+			*/
+			String[] chunkers = new String[tags.length];
+			String[] chunkersPos = new String[tags.length];
+			int j = 0;
+			int i=0;
+			String mergeWord = tokens[0];
+			
+			String[] splitter1 = new String[4];
+			String[] splitter2 = new String[4];
+			for( i=1;i<chunkerPos.length;i++)
+			{
+				
+				if(chunkerPos[i].contains("-") && chunkerPos[i-1].contains("-"))
+				{
+					splitter1 = chunkerPos[i].split("-");
+					splitter2 = chunkerPos[i-1].split("-");
+				
+					//	if(chunkerPos[i].contains(chunkerPos[i-1]))
+					if(splitter1[1].contains(splitter2[1]))
+						mergeWord +=" " + tokens[i];
+					else 
+					{
+						chunkers[j] = mergeWord;
+						chunkersPos[j] = splitter2[1];
+						mergeWord = tokens[i];
+						System.out.println(chunkers[j] +"   " +chunkersPos[j]);
+						j++;
+					}
+				}
+				else
+				{
+					chunkers[j] = mergeWord;
+					chunkersPos[j] = splitter2[1];
+					mergeWord = tokens[i];
+					System.out.println(chunkers[j] +"   " +chunkersPos[j]);
+					j++;
+					
+				}
+			}
+				
+			
+			
+			
+			
+			
+		/*	
+			
+			for(int i=0;i<chunkStrings.length;i++){
+				System.out.print(chunkStrings[i] + "      ");
+			//	System.out.print(chunkers[i]  + " ");
+			}
+			
+			System.out.println("");
+			for(int i=0;i<chunkers.length;i++){
+				//System.out.print(chunkStrings[i] + "   ");
+				System.out.print(chunkers[i]  + "      ");
+			}
+			*/
+		
+			
+			String[] storedPos= {"ADVP", "NP", "ADJP"};
+			
+			String storeOutput = "";
+			for(int k=0;k<j;k++)
+			{
+				if(chunkersPos[k]!= null)
+				if(chunkersPos[k].contentEquals(storedPos[0]) ||chunkersPos[k].contentEquals(storedPos[1]) || chunkersPos[k].contentEquals(storedPos[2] ))
+				{
+				//	System.out.print(tokens[i] +"   " + tag +"  ");
+				outputWriter.write(chunkers[k]);
+				outputWriter.write("          ");
+				System.out.println(chunkers[k]);
+				storeOutput += chunkers[k] +"  ";
+				
+				
+				//Storing in csv
+				
+				outputWriterCsv.write(chunkers[k]);
+				outputWriterCsv.write(",");
+				}
+			}
+			outputWriterCsv.write("\n");
+			System.out.println(storeOutput);
+			outputWriter.write("\n");
+			System.out.println("");
+			outputWriter.flush();
+			outputWriter.close();
+			perfMon.incrementCounter();
+			fileCount++;
+		//	break;
+		}
+		
+		outputWriterCsv.flush();  
+		outputWriterCsv.close();
+		//br.close();
+		
+	}
+}

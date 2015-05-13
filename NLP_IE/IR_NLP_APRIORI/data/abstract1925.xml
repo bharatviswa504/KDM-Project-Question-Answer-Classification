@@ -1,0 +1,634 @@
+<?xml version="1.0"?><!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2015//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_150101.dtd">
+<PubmedArticleSet>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17744120</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>62</Volume>
+						<Issue>1616</Issue>
+						<PubDate>
+							<Year>1925</Year>
+							<Month>Dec</Month>
+							<Day>18</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>BRITISH CANCER DISCOVERIES.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>xii</MedlinePgn>
+				</Pagination>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1925</Year>
+					<Month>12</Month>
+					<Day>18</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1925</Year>
+					<Month>12</Month>
+					<Day>18</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1925</Year>
+					<Month>12</Month>
+					<Day>18</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">62/1616/xii</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.62.1616.0xii</ArticleId>
+				<ArticleId IdType="pubmed">17744120</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17752305</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>62</Volume>
+						<Issue>1602</Issue>
+						<PubDate>
+							<Year>1925</Year>
+							<Month>Sep</Month>
+							<Day>11</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>THE ULTRA-MICROSCOPE AND THE CANCER GERM.
+				</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>xii</MedlinePgn>
+				</Pagination>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1925</Year>
+					<Month>9</Month>
+					<Day>11</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1925</Year>
+					<Month>9</Month>
+					<Day>11</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1925</Year>
+					<Month>9</Month>
+					<Day>11</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">62/1602/xii</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.62.1602.0xii</ArticleId>
+				<ArticleId IdType="pubmed">17752305</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17740879</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>62</Volume>
+						<Issue>1600</Issue>
+						<PubDate>
+							<Year>1925</Year>
+							<Month>Aug</Month>
+							<Day>28</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>THE CANCER GERM THEORY.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>x</MedlinePgn>
+				</Pagination>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1925</Year>
+					<Month>8</Month>
+					<Day>28</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1925</Year>
+					<Month>8</Month>
+					<Day>28</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1925</Year>
+					<Month>8</Month>
+					<Day>28</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">62/1600/x-s</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.62.1600.0x-s</ArticleId>
+				<ArticleId IdType="pubmed">17740879</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17757748</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>62</Volume>
+						<Issue>1598</Issue>
+						<PubDate>
+							<Year>1925</Year>
+							<Month>Aug</Month>
+							<Day>14</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>RESEARCH IN CANCER.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>x</MedlinePgn>
+				</Pagination>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1925</Year>
+					<Month>8</Month>
+					<Day>14</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1925</Year>
+					<Month>8</Month>
+					<Day>14</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1925</Year>
+					<Month>8</Month>
+					<Day>14</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">62/1598/x-s</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.62.1598.0x-s</ArticleId>
+				<ArticleId IdType="pubmed">17757748</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17812846</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>62</Volume>
+						<Issue>1597</Issue>
+						<PubDate>
+							<Year>1925</Year>
+							<Month>Aug</Month>
+							<Day>7</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>THE ULTRA-VIOLET MICROSCOPE AS EMPLOYED BY BARNARD IN
+					HIS CANCER RESEARCHES.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>135-6</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Marquette</LastName>
+						<ForeName>W</ForeName>
+						<Initials>W</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1925</Year>
+					<Month>8</Month>
+					<Day>7</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1925</Year>
+					<Month>8</Month>
+					<Day>7</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1925</Year>
+					<Month>8</Month>
+					<Day>7</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">62/1597/135</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.62.1597.135</ArticleId>
+				<ArticleId IdType="pubmed">17812846</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17730257</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>62</Volume>
+						<Issue>1595</Issue>
+						<PubDate>
+							<Year>1925</Year>
+							<Month>Jul</Month>
+							<Day>24</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>THE ORGANISM CAUSING CANCER.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>viii</MedlinePgn>
+				</Pagination>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1925</Year>
+					<Month>7</Month>
+					<Day>24</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1925</Year>
+					<Month>7</Month>
+					<Day>24</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1925</Year>
+					<Month>7</Month>
+					<Day>24</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">62/1595/viii</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.62.1595.0viii</ArticleId>
+				<ArticleId IdType="pubmed">17730257</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17792713</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>61</Volume>
+						<Issue>1589</Issue>
+						<PubDate>
+							<Year>1925</Year>
+							<Month>Jun</Month>
+							<Day>12</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>SOME NEWER ASPECTS OF CANCER RESEARCH.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>595-601</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Smith</LastName>
+						<ForeName>E F</ForeName>
+						<Initials>EF</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1925</Year>
+					<Month>6</Month>
+					<Day>12</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1925</Year>
+					<Month>6</Month>
+					<Day>12</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1925</Year>
+					<Month>6</Month>
+					<Day>12</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">61/1589/595</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.61.1589.595</ArticleId>
+				<ArticleId IdType="pubmed">17792713</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17800240</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>61</Volume>
+						<Issue>1581</Issue>
+						<PubDate>
+							<Year>1925</Year>
+							<Month>Apr</Month>
+							<Day>17</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>CANCER IN PLANTS AND IN MAN.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>419-20</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Smith</LastName>
+						<ForeName>E F</ForeName>
+						<Initials>EF</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1925</Year>
+					<Month>4</Month>
+					<Day>17</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1925</Year>
+					<Month>4</Month>
+					<Day>17</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1925</Year>
+					<Month>4</Month>
+					<Day>17</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">61/1581/419</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.61.1581.419</ArticleId>
+				<ArticleId IdType="pubmed">17800240</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+</PubmedArticleSet>

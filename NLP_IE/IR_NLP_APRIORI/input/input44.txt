@@ -1,0 +1,11 @@
+Imaging[edit]
+Medical imaging plays a central role in the diagnosis of brain tumors. Early imaging methods—invasive and sometimes dangerous— such as pneumoencephalography and cerebral angiography have been abandoned in favor of non-invasive, high-resolution techniques, especially magnetic resonance imaging (MRI) and computed tomography (CT) scans. Neoplasms will often show as differently colored masses (also referred to as processes) in CT or MRI results.
+
+Benign brain tumors often show up as hypodense (darker than brain tissue) mass lesions on cranial CT scans. On MRI, they appear either hypo- (darker than brain tissue) or isointense (same intensity as brain tissue) on T1-weighted scans, or hyperintense (brighter than brain tissue) on T2-weighted MRI, although the appearance is variable.
+Contrast agent uptake, sometimes in characteristic patterns, can be demonstrated on either CT or MRI scans in most malignant primary and metastatic brain tumors.
+Perifocal edemas, or pressure areas, or where the brain tissue has been compressed by an invasive process also appear hyperintense on T2-weighted MRI; they might indicate the presence a diffuse neoplasm (unclear outline).
+This is because these tumors disrupt the normal functioning of the BBB and lead to an increase in its permeability. However, it is not possible to diagnose high- versus low-grade gliomas based on enhancement pattern alone.
+
+The definitive diagnosis of brain tumor can only be confirmed by histological examination of tumor tissue samples obtained either by means of brain biopsy or open surgery. The histological examination is essential for determining the appropriate treatment and the correct prognosis. This examination, performed by a pathologist, typically has three stages: interoperative examination of fresh tissue, preliminary microscopic examination of prepared tissues, and follow-up examination of prepared tissues after immunohistochemical staining or genetic analysis.
+
+

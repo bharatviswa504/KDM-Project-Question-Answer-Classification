@@ -1,0 +1,253 @@
+<?xml version="1.0"?><!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2015//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_150101.dtd">
+<PubmedArticleSet>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17734292</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>09</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>36</Volume>
+						<Issue>924</Issue>
+						<PubDate>
+							<Year>1912</Year>
+							<Month>Sep</Month>
+							<Day>13</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>SYMPTOMATIC DEVELOPMENT OF CANCER.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>348-50</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>McGee</LastName>
+						<ForeName>W J</ForeName>
+						<Initials>WJ</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1912</Year>
+					<Month>9</Month>
+					<Day>13</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1912</Year>
+					<Month>9</Month>
+					<Day>13</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1912</Year>
+					<Month>9</Month>
+					<Day>13</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">36/924/348</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.36.924.348</ArticleId>
+				<ArticleId IdType="pubmed">17734292</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17779092</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>09</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>35</Volume>
+						<Issue>913</Issue>
+						<PubDate>
+							<Year>1912</Year>
+							<Month>Jun</Month>
+							<Day>28</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>CANCER RESEARCH.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>979-80</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>C</LastName>
+						<ForeName>W B</ForeName>
+						<Initials>WB</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1912</Year>
+					<Month>6</Month>
+					<Day>28</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1912</Year>
+					<Month>6</Month>
+					<Day>28</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1912</Year>
+					<Month>6</Month>
+					<Day>28</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">35/913/979</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.35.913.979</ArticleId>
+				<ArticleId IdType="pubmed">17779092</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17801609</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>09</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>35</Volume>
+						<Issue>892</Issue>
+						<PubDate>
+							<Year>1912</Year>
+							<Month>Feb</Month>
+							<Day>2</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>ON SOME RESEMBLANCES OF CROWNGALL TO HUMAN CANCER.
+				</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>161-72</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Smith</LastName>
+						<ForeName>E F</ForeName>
+						<Initials>EF</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1912</Year>
+					<Month>2</Month>
+					<Day>2</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1912</Year>
+					<Month>2</Month>
+					<Day>2</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1912</Year>
+					<Month>2</Month>
+					<Day>2</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">35/892/161</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.35.892.161</ArticleId>
+				<ArticleId IdType="pubmed">17801609</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+</PubmedArticleSet>

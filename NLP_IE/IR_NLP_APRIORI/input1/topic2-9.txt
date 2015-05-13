@@ -1,0 +1,1 @@
+How can I calculate a random number in a Triangular distribution random function? Is there a java packa ged somewhere which does it?,check out this site:    http://mathworld.wolfram.com/TriangularDistribution.html

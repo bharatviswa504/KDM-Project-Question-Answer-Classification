@@ -1,0 +1,8 @@
+Surgery: complete or partial resection of the tumor with the objective of removing as many tumor cells as possible.
+Radiotherapy: the most commonly used treatment for brain tumors; the tumor is irradiated with beta, x rays or gamma rays.
+Chemotherapy: is a treatment option for cancer, however it is seldom used to treat brain tumors as the blood and brain barrier prevents the drugs from reaching the cancerous cells. Chemotherapy can be thought of as a poison that prevents the growth and division of all cells in the body including cancerous cells. This causes the significant side effects experienced by patients undergoing chemotherapy.
+A variety of experimental therapies are available through clinical trials.[18]
+Survival rates in primary brain tumors depend on the type of tumor, age, functional status of the patient, the extent of surgical tumor removal and other factors specific to each case.[19]
+
+Surgery[edit]
+The primary and most desired course of action described in medical literature is surgical removal (resection) via craniotomy. Minimally invasive techniques are becoming the dominant trend in neurosurgical oncology.[20] The prime remediating objective of surgery is to remove as many tumor cells as possible, with complete removal being the best outcome and cytoreduction ("debulking") of the tumor otherwise. In some cases access to the tumor is impossible and impedes or prohibits surgery.

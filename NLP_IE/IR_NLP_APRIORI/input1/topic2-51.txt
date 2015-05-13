@@ -1,0 +1,1 @@
+I'm concerned that upgrading via a PCI card will not be any better. Any advice would be appreciated.,"Most onboard video for PC desktop motherboards are far short of performance for even a PCI-only card. For the Intel 845 chipset, having a dedicated PCI video card can definitely improve your performance, especially for 3D games."

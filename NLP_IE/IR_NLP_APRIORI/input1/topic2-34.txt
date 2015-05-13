@@ -1,0 +1,1 @@
+"I'm trying to make a cell that has a list of other cells. e.g. I want my cell to say [d4's value], [d5's value] Can I do that? Right now when I try, Excel spits out the #value error. Can you help?","Use the CONCATENATE function, with one of the arguments being , The formula you end up with should look something like this: =CONCATENATE(D3,, ,D5)"

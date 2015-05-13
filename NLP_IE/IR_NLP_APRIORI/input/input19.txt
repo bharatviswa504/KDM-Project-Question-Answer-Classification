@@ -1,0 +1,23 @@
+
+Diagnosis[edit]
+
+The head, body and tail of the pancreas. The stomach is faded out in this image to show the entire pancreas, of which the body and tail lie behind the stomach, and the neck partially behind.
+
+Axial CT image with i.v. contrast and added color. Cross lines towards top left surround a macrocystic adenocarcinoma of the pancreatic head.
+
+Abdominal CT demonstrating pancreatic cancer (large red arrow) with metastasis to the liver (small red arrows).
+The symptoms of pancreatic adenocarcinoma do not usually appear in the disease's early stages, and are individually not distinctive to the disease.[3][5][26] The symptoms at diagnosis vary according to the location of the cancer in the pancreas, which anatomists divide (from left to right on most diagrams) into the thick head, the neck, and the tapering body, ending in the tail.
+
+Regardless of a tumour's location, the most common symptom is unexplained weight loss, which may be considerable. A large minority (between 35% and 47%) of people diagnosed with the disease will have had nausea, vomiting or a feeling of weakness.
+
+Tumors in the head of the pancreas typically also cause jaundice, pain, loss of appetite, dark urine, and light-colored stools. Tumors in the body and tail typically also cause pain.[26]
+
+People sometimes have recent onset of atypical type 2 diabetes that is difficult to control, a history of recent but unexplained blood vessel inflammation caused by blood clots (thrombophlebitis) known as Trousseau sign, or a previous attack of pancreatitis.[26] A doctor may suspect pancreatic cancer when the onset of diabetes in someone over 50-years-old is accompanied by typical symptoms such as unexplained weight loss, persistent abdominal or back pain, indigestion, vomiting, or fatty feces.[3] Jaundice accompanied by a painlessly swollen gallbladder (known as Courvoisier's sign) may also raise suspicion, and can help differentiate pancreatic cancer from gallstones.[38]
+
+Medical imaging techniques, such as computed tomography (CT scan) and endoscopic ultrasound (EUS) are used both to confirm the diagnosis and to help decide whether the tumor can be surgically removed (its "resectability").[3] Magnetic resonance imaging and positron emission tomography may also be used,[2] and magnetic resonance cholangiopancreatography may be useful in some cases.[26] Abdominal ultrasound is less sensitive and will miss small tumors, but can identify cancers that have spread to the liver and build-up of fluid in the peritoneal cavity (ascites).[3] It may be used for a quick and cheap first examination before other techniques.[39]
+
+A biopsy by fine needle aspiration, often guided by endoscopic ultrasound, may be used where there is uncertainty over the diagnosis, but a histologic diagnosis is not usually required for removal of the tumor by surgery to go ahead.[3]
+
+Liver function tests can show a combination of results indicative of bile duct obstruction (raised conjugated bilirubin, γ-glutamyl transpeptidase and alkaline phosphatase levels). CA19-9 (carbohydrate antigen 19.9) is a tumor marker that is frequently elevated in pancreatic cancer. However, it lacks sensitivity and specificity, not least because 5% of people lack the Lewis (a) antigen and cannot produce CA19-9. It has a sensitivity of 80% and specificity of 73% in for detecting pancreatic adenocarcinoma, and is used for following known cases rather than diagnosis.[2][3]
+
+The most common form of pancreatic cancer (adenocarcinoma) is typically characterized by moderately to poorly differentiated glandular structures on microscopic examination. There is typically considerable desmoplasia or formation of a dense fibrous stroma or structural tissue consisting of a range of cell types (including myofibroblasts, macrophages, lymphocytes and mast cells) and deposited material (such as type I collagen and hyaluronic acid). This creates a tumor microenvironment that is short of blood vessels (hypovascular) and so of oxygen (tumor hypoxia).[2] It is thought that this prevents many chemotherapy drugs from reaching the tumor, as one factor making the cancer especially hard to treat.[2][5]

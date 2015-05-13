@@ -1,0 +1,38 @@
+A brain tumor or intracranial neoplasm occurs when abnormal cells form within the brain.[1] There are two main types of tumors: malignant or cancerous tumors and benign tumors.[1] Cancerous tumors can be divided into primary tumors that started within the brain and those that spread from somewhere else known as brain metastasis tumors.[2] This article deals mainly with tumors that start within the brain. All types of brain tumors may produce symptoms that vary depending on the part of the brain involved.[1] These may include headaches, seizures, problem with vision, vomiting, and mental changes.[2][3]The headache is classically worst in the morning and goes away with vomiting.[1] More specific problems may include difficulty in walking, speaking and with sensation.[2][4] As the disease progresses unconsciousness may occur.[4]
+
+The cause of most cases is unknown.[1]Risk factors that may occasionally be involved include a number of inherited conditions such as neurofibromatosis as well as exposure to the industrial chemical vinyl chloride, the Epstein-Barr virus, and ionizing radiation.[1][2][4] While concern has been raised about mobile phone use the evidence is not clear.[4] The most common types of primary tumors in adults are: meningiomas (usually benign), and astrocytomas such as glioblastomas.[2] In children the most common type is a malignant medulloblastoma.[4] Diagnosis is usually by medical examination along with computed tomography or magnetic resonance imaging.[1] This is then often confirmed by a biopsy.[2] Based on the findings the tumors are divided into different grades of severity.[2]
+
+
+
+
+telencephalon (cerebral hemispheres or cerebrum)
+mesencephalon (midbrain)
+cerebellum
+These areas are composed of two broad classes of cells: neurons and glia. These two types are equally numerous in the brain as a whole, although glial cells outnumber neurons roughly 4 to 1 in the cerebral cortex. Glia come in several types, which perform a number of critical functions, including structural support, metabolic support, insulation, and guidance of development.
+
+Primary tumors of the glial cells are called gliomas and often are malignant by the time they are diagnosed.
+
+Spinal cord and other tissues[edit]
+The pink area in the picture is called the pons and is a specific region that consists of myelinated axons much like the spinal cord.
+The yellow region is the diencephalon (thalamus and hypothalamus) which consist also of neuron and glial cell tissue with the hypophysis (or pituitary gland) and pineal gland (which is glandular tissue) attached at the bottom; tumors of the pituitary and pineal gland are often benign neoplasms.
+The turquoise region or medulla oblongata is the end of the spinal cord and is composed mainly of neuron tissue enveloped in Schwann cells and meninges tissue. The spinal cord is made up of bundles of these axons. Glial cells such as Schwann cells in the periphery or, within the cord itself, oligodendrocytes, wrap themselves around the axon, thus promoting faster transmission of electrical signals and also providing for general maintenance of the environment surrounding the cord, in part by shuttling different compounds around, responding to injury, etc.
+Diagnosis[edit]
+
+A posterior fossa tumor leading to mass effect and midline shift
+The majority of the brain is separated from the blood by the blood-brain barrier (BBB), which exerts a restrictive control as to which substances are allowed to pass. Therefore many tracers that reach tumors in the body very easily would only reach brain tumors once there is a disruption of the BBB. Thus the disruption of the BBB, which can be detected by a MRI and CT, is regarded as the main diagnostic indicator for malignant gliomas, meningiomas, and brain metastases.[11]
+
+Although there is no specific or singular clinical symptom or sign for any brain tumors, the presence of a combination of symptoms and the lack of corresponding clinical indications of infections or other causes can be an indicator to redirect diagnostic investigation towards the possibility of an intracranial neoplasm. Brain tumors have similar characteristics and obstacles when it comes to diagnosis and therapy with tumors located elsewhere in the body. However, they create specific issues that follow closely to the properties of the organ they are in.[11]
+
+The diagnosis will often start with an interrogation of the patient to get a clear view of his medical antecedents, and his current symptoms. Clinical and laboratory investigations will serve to exclude infections as the cause of the symptoms. Examinations in this stage may include the eyes, otolaryngological (or ENT) and/or electrophysiological exams. The use of electroencephalography (EEG) often plays a role in the diagnosis of brain tumors.
+
+Swelling, or obstruction of the passage of cerebrospinal fluid (CSF) from the brain may cause (early) signs of increased intracranial pressure which translates clinically into headaches, vomiting, or an altered state of consciousness, and in children changes to the diameter of the skull and bulging of the fontanelles. More complex symptoms such as endocrine dysfunctions should alarm doctors not to exclude brain tumors.
+
+A bilateral temporal visual field defect (due to compression of the optic chiasm) or dilatation of the pupil, and the occurrence of either slowly evolving or the sudden onset of focal neurologic symptoms, such as cognitive and behavioral impairment (including impaired judgment, memory loss, lack of recognition, spatial orientation disorders), personality or emotional changes, hemiparesis, hypoesthesia, aphasia, ataxia, visual field impairment, impaired sense of smell, impaired hearing, facial paralysis, double vision, or more severe symptoms such as tremors, paralysis on one side of the body hemiplegia, or (epileptic) seizures in a patient with a negative history for epilepsy, should raise the possibility of a brain tumor.
+
+
+
+
+Radiation therapy[edit]
+The goal of radiation therapy is to kill tumor cells while leaving normal brain tissue unharmed. In standard external beam radiation therapy, multiple treatments of standard-dose "fractions" of radiation are applied to the brain. This process is repeated for a total of 10 to 30 treatments, depending on the type of tumor. This additional treatment provides some patients with improved outcomes and longer survival rates.
+
+Radiosurgery is a treatment method that uses computerized calculations to focus radiation at the site of the tumor while minimizing the radiation dose to the surrounding brain. Radiosurgery may be an adjunct to other treatments, or it may represent the primary treatment technique for some tumors. Forms used include 

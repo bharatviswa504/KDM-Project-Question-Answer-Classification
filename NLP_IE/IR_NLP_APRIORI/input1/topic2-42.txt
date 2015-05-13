@@ -1,0 +1,1 @@
+What is CGI?,"Common Gateway Interface (CGI) is an important World Wide Web technology that enables a client web browser to request data from a program executed on the Web server. CGI specifies a standard for passing data between the client and the program. An aim of CGI is to be language-neutral, though Perl is often associated with it."

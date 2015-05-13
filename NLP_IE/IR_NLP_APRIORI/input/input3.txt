@@ -1,0 +1,42 @@
+Pancreatic cancer arises when cells in the pancreas, a glandular organ behind the stomach, begin to multiply out of control and form a mass. These cancer cells have the ability to invade other parts of the body.[1] There are a number of types of pancreatic cancer. The most common, pancreatic adenocarcinoma, accounts for about 85% of cases, and the term "pancreatic cancer" is sometimes used to refer only to that type. These adenocarcinomas start within the part of the pancreas which make digestive enzymes. Several other types of cancer, which collectively represent the majority of the non-adenocarcinomas, can also arise from these cells. One to two in every hundred cases of pancreatic cancer are neuroendocrine tumors, which arise from the hormone-producing cells of the pancreas. These are generally less aggressive than pancreatic adenocarcinoma.
+
+Signs and symptoms of the most common form of pancreatic cancer may include yellow skin, abdominal or back pain, unexplained weight loss, light-colored stools, dark urine and loss of appetite. There are usually no symptoms in the disease's early stages, and symptoms that are specific enough to suspect pancreatic cancer typically do not develop until the disease has reached an advanced stage.[2] By the time of diagnosis, pancreatic cancer has often spread to other parts of the body.[3][4]
+
+In 2012, pancreatic cancers of all types were the seventh most common cause of cancer deaths, resulting in 330,000 deaths globally.[4] In the United States, pancreatic cancer is the fourth most common cause of deaths due to cancer.[12][13] The disease occurs most often in the developed world, where about 70% of the new cases in 2012 originated.[4] Pancreatic adenocarcinoma typically has a very poor prognosis: after diagnosis, 25% of people survive one year and 5% live for five years.[4][14] For cancers diagnosed early, the five-year survival rate rises to about 20%.[15] Neuroendocrine cancers have better outcomes; at five years from diagnosis, 65% of those diagnosed are living, though survival varies considerably depending on the type of tumor.[4]
+
+
+
+
+
+
+Symptoms of spread (metastasis)[edit]
+
+Cross section of a human liver, at autopsy, showing multiple large pale tumor deposits, that are secondary tumors derived from pancreatic cancer
+The spread of pancreatic cancer to other organs (metastasis) may also cause symptoms. Typically, pancreatic adenocarcinoma first spreads to nearby lymph nodes, and later to the liver or to the peritoneal cavity, large intestine or lungs.[5] It is uncommon for it to spread to the bones or brain.[29]
+
+Cancers in the pancreas may also be secondary cancers that have spread from other parts of the body. This is uncommon, found in only about 2% of cases of pancreatic cancer. Kidney cancer is by far the most common cancer to spread to the pancreas, followed by colorectal cancer, and then cancers of the skin, breast, and lung. Surgery may be performed on the pancreas in such cases, whether in hope of a cure or to alleviate symptoms.[30]
+
+Risk factors[edit]
+
+Staging[edit]
+Exocrine cancers[edit]
+Pancreatic cancer is usually staged following a CT scan.[26] The most widely used cancer staging system for pancreatic cancer is the one formulated by the American Joint Committee on Cancer (AJCC) together with the Union for International Cancer Control (UICC). The AJCC-UICC staging system designates four main overall stages, ranging from early to advanced disease, based on TNM classification of Tumor size, spread to lymph Nodes, and Metastasis.[40]
+
+To help decide treatment, the tumors are also divided into three broader categories based on whether surgical removal seems possible: in this way, tumors are judged to be "resectable", "borderline resectable", or "unresectable".[41] When the disease is still in an early stage (AJCC-UICC stages I and II), without spread to large blood vessels or distant organs such as the liver or lungs, surgical resection of the tumor can normally be performed, if the patient is willing to undergo this major operation and is thought to be sufficiently fit.[3] The AJCC-UICC staging system allows distinction between stage III tumors that are judged to be "borderline resectable" (where surgery is technically feasible because the celiac axis and superior mesenteric artery are still free) and those that are "unresectable" (due to more locally advanced disease); in terms of the more detailed TNM classification, these two groups correspond to T3 and T4 respectively.[5]
+
+Pancreatic cancer staging (TNM classification)
+
+Stage T1 pancreatic cancer
+ 
+
+Stage T2 pancreatic cancer
+ 
+
+Stage T3 pancreatic cancer
+ 
+
+Stage T4 pancreatic cancer
+ 
+
+Pancreatic cancer in nearby lymph nodes – Stage N1
+ 

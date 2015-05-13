@@ -1,0 +1,1 @@
+The Microsoft Help section is pitiful!,First load the add-in: Tools > Add-Ins > Analysis Tool Pack then find it: Tools > Data Analysis & Choose Regression If you need any more help mail me.

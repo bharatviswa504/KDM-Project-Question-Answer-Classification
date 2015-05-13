@@ -1,0 +1,21 @@
+
+The initial discovery of the virus' oncolytic properties were limited to only a few types of cancer. Several independent studies have identified many more types susceptible to the virus, including glioblastoma multiforme cancer cells, which account for the majority of brain tumors.
+
+In 2008, researchers artificially engineered strains of VSV that were less cytotoxic to normal cells. This advance allows administration of the virus without coadministration with interferon. Consequently administration of the virus can be given intravenously or through the olfactory nerve. In the research, a human brain tumor was implanted into mice brains.
+
+Research on virus treatment like this has been conducted for some years, but no other viruses have been shown to be as efficient or specific as the VSV mutant strains. Future research will focus on the risks of this treatment before it can be applied to humans.[43][unreliable medical source?]
+
+Retroviral replicating vectors[edit]
+
+A brainstem glioma in four-year-old. MRI, sagittal, without contrast
+.
+
+Led by Prof. Nori Kasahara, researchers from USC, who are now at UCLA, reported in 2001 the first successful example of applying the use of retroviral replicating vectors towards transducing cell lines derived from solid tumors.[44] Building on this initial work, the researchers applied the technology to in vivo models of cancer and in 2005 reported a long-term survival benefit in an experimental brain tumor animal model.[45][unreliable medical source?] Subsequently, in preparation for human clinical trials, this technology was further developed by Tocagen, Inc. (Toca 511 & Toca FC) It has been under investigation since 2010 in a Phase I/II clinical trial for the potential treatment of recurrent high-grade glioma including glioblastoma multiforme (GBM) and anaplastic astrocytoma. No results have yet been published.[46]
+
+Children[edit]
+Ambox current red.svg
+This section is outdated. Please update this article to reflect recent events or newly available information.
+Last update: PMID 23436013 (July 2014)
+In the US, about 2000 children and adolescents younger than 20 years of age are diagnosed with malignant brain tumors each year. Higher incidence rates were reported in 1985–94 than in 1975–83. There is some debate as to the reasons; one theory is that the trend is the result of improved diagnosis and reporting, since the jump occurred at the same time that MRIs became available widely, and there was no coincident jump in mortality. The central nervous system (CNS) cancer survival rate in children is approximately 60%. The rate varies with the type of cancer and the age of onset: younger patients have higher mortality.[47]
+
+In children under 2, about 70% of brain tumors are medulloblastoma, ependymoma, and low-grade glioma. Less commonly, and seen usually in infants, are teratoma and atypical teratoid rhabdoid tumor.[48] Germ cell tumors, including teratoma, make up just 3% of pediatric primary brain tumors, but the worldwide incidence varies significantly.[49]

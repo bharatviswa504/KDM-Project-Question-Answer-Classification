@@ -1,0 +1,11 @@
+Pathophysiology[edit]
+Main article: Carcinogenesis
+
+Overview of signal transduction pathways involved in apoptosis. Mutations leading to loss of apoptosis can lead to tumorigenesis.
+Breast cancer, like other cancers, occurs because of an interaction between an environmental (external) factor and a genetically susceptible host. Normal cells divide as many times as needed and stop. They attach to other cells and stay in place in tissues. Cells become cancerous when they lose their ability to stop dividing, to attach to other cells, to stay where they belong, and to die at the proper time.
+
+Normal cells will commit cell suicide (apoptosis) when they are no longer needed. Until then, they are protected from cell suicide by several protein clusters and pathways. One of the protective pathways is the PI3K/AKT pathway; another is the RAS/MEK/ERK pathway. Sometimes the genes along these protective pathways are mutated in a way that turns them permanently "on", rendering the cell incapable of committing suicide when it is no longer needed. This is one of the steps that causes cancer in combination with other mutations. Normally, the PTEN protein turns off the PI3K/AKT pathway when the cell is ready for cell suicide. In some breast cancers, the gene for the PTEN protein is mutated, so the PI3K/AKT pathway is stuck in the "on" position, and the cancer cell does not commit suicide.[62]
+
+Mutations that can lead to breast cancer have been experimentally linked to estrogen exposure.[63]
+
+Abnormal growth factor signaling in the interaction between stromal cells and epithelial cells can facilitate malignant cell growth.[64][65] In breast adipose tissue, overexpression of leptin leads to increased cell proliferation and cancer.[66]

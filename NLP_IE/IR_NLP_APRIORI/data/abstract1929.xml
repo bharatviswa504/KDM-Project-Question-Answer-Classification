@@ -1,0 +1,705 @@
+<?xml version="1.0"?><!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2015//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_150101.dtd">
+<PubmedArticleSet>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17789567</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>70</Volume>
+						<Issue>1824</Issue>
+						<PubDate>
+							<Year>1929</Year>
+							<Month>Dec</Month>
+							<Day>13</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>ELECTROSURGERY IN TREATING CANCER.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>xiv</MedlinePgn>
+				</Pagination>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1929</Year>
+					<Month>12</Month>
+					<Day>13</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1929</Year>
+					<Month>12</Month>
+					<Day>13</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1929</Year>
+					<Month>12</Month>
+					<Day>13</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">70/1824/xiv</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.70.1824.0xiv</ArticleId>
+				<ArticleId IdType="pubmed">17789567</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17777401</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>70</Volume>
+						<Issue>1808</Issue>
+						<PubDate>
+							<Year>1929</Year>
+							<Month>Aug</Month>
+							<Day>23</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>CANCER CULTURE CARRIED BY THE GRAF ZEPPELIN.
+				</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>xii</MedlinePgn>
+				</Pagination>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1929</Year>
+					<Month>8</Month>
+					<Day>23</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1929</Year>
+					<Month>8</Month>
+					<Day>23</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1929</Year>
+					<Month>8</Month>
+					<Day>23</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">70/1808/xii-s</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.70.1808.0xii-s</ArticleId>
+				<ArticleId IdType="pubmed">17777401</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17809915</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>70</Volume>
+						<Issue>1802</Issue>
+						<PubDate>
+							<Year>1929</Year>
+							<Month>Jul</Month>
+							<Day>12</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>SKIN DISEASES THAT MAY DEVELOP INTO CANCER.
+				</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>xii</MedlinePgn>
+				</Pagination>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1929</Year>
+					<Month>7</Month>
+					<Day>12</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1929</Year>
+					<Month>7</Month>
+					<Day>12</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1929</Year>
+					<Month>7</Month>
+					<Day>12</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">70/1802/xii-t</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.70.1802.0xii-t</ArticleId>
+				<ArticleId IdType="pubmed">17809915</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17791939</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>69</Volume>
+						<Issue>1799</Issue>
+						<PubDate>
+							<Year>1929</Year>
+							<Month>Jun</Month>
+							<Day>21</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>CANCER RESEARCH.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>xii</MedlinePgn>
+				</Pagination>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1929</Year>
+					<Month>6</Month>
+					<Day>21</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1929</Year>
+					<Month>6</Month>
+					<Day>21</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1929</Year>
+					<Month>6</Month>
+					<Day>21</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">69/1799/xii</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.69.1799.0xii</ArticleId>
+				<ArticleId IdType="pubmed">17791939</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17760013</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>69</Volume>
+						<Issue>1798</Issue>
+						<PubDate>
+							<Year>1929</Year>
+							<Month>Jun</Month>
+							<Day>14</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>SENATE COMMITTEE ON CANCER RESEARCH.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>x</MedlinePgn>
+				</Pagination>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1929</Year>
+					<Month>6</Month>
+					<Day>14</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1929</Year>
+					<Month>6</Month>
+					<Day>14</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1929</Year>
+					<Month>6</Month>
+					<Day>14</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">69/1798/x-s</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.69.1798.0x-s</ArticleId>
+				<ArticleId IdType="pubmed">17760013</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17838514</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>69</Volume>
+						<Issue>1797</Issue>
+						<PubDate>
+							<Year>1929</Year>
+							<Month>Jun</Month>
+							<Day>7</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>SUSCEPTIBILITY TO CANCER.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>xii</MedlinePgn>
+				</Pagination>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1929</Year>
+					<Month>6</Month>
+					<Day>7</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1929</Year>
+					<Month>6</Month>
+					<Day>7</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1929</Year>
+					<Month>6</Month>
+					<Day>7</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">69/1797/xii-t</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.69.1797.0xii-t</ArticleId>
+				<ArticleId IdType="pubmed">17838514</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17784013</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>69</Volume>
+						<Issue>1788</Issue>
+						<PubDate>
+							<Year>1929</Year>
+							<Month>Apr</Month>
+							<Day>5</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>THE CAUSE OF CANCER.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>xii</MedlinePgn>
+				</Pagination>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1929</Year>
+					<Month>4</Month>
+					<Day>5</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1929</Year>
+					<Month>4</Month>
+					<Day>5</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1929</Year>
+					<Month>4</Month>
+					<Day>5</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">69/1788/xii-t</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.69.1788.0xii-t</ArticleId>
+				<ArticleId IdType="pubmed">17784013</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17773744</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>69</Volume>
+						<Issue>1786</Issue>
+						<PubDate>
+							<Year>1929</Year>
+							<Month>Mar</Month>
+							<Day>22</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>THE HYDROGEN-ION CONCENTRATION OF THE BLOOD IN CANCER.
+				</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>330</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Nolan</LastName>
+						<ForeName>H O</ForeName>
+						<Initials>HO</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1929</Year>
+					<Month>3</Month>
+					<Day>22</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1929</Year>
+					<Month>3</Month>
+					<Day>22</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1929</Year>
+					<Month>3</Month>
+					<Day>22</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">69/1786/330</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.69.1786.330</ArticleId>
+				<ArticleId IdType="pubmed">17773744</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17733743</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>69</Volume>
+						<Issue>1781</Issue>
+						<PubDate>
+							<Year>1929</Year>
+							<Month>Feb</Month>
+							<Day>15</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>CELLULAR DIVISION IN RELATION TO CANCER.
+				</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>175-7</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>McDonald</LastName>
+						<ForeName>E</ForeName>
+						<Initials>E</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1929</Year>
+					<Month>2</Month>
+					<Day>15</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1929</Year>
+					<Month>2</Month>
+					<Day>15</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1929</Year>
+					<Month>2</Month>
+					<Day>15</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">69/1781/175</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.69.1781.175</ArticleId>
+				<ArticleId IdType="pubmed">17733743</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+</PubmedArticleSet>

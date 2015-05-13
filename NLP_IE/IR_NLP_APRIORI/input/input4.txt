@@ -1,0 +1,102 @@
+Bladder cancer is any of several types of cancer arising from the epithelial lining (i.e., the urothelium) of the urinary bladder. Rarely the bladder is involved by non-epithelial cancers, such as lymphoma or sarcoma, but these are not ordinarily included in the colloquial term "bladder cancer." It is a disease in which abnormal cells multiply without control in the bladder.[1]
+
+The most common type of bladder cancer recapitulates the normal histology of the urothelium and is known as transitional cell carcinoma or more properly urothelial cell carcinoma. Five-year survival rates in the United States are around 77%.[2]
+
+Bladder cancer is the 9th leading cause of cancer with 430,000 new cases[3] and 165,000 deaths occurring in 2012.[4]
+
+
+Signs and symptoms[edit]
+
+Location of bladder cancer
+Bladder cancer characteristically causes blood (redness) in the urine. This blood in the urine may be visible to the naked eye (gross/macroscopic hematuria) or detectable only by microscope (microscopic hematuria). Hematuria is the most common symptom in bladder cancer. It occurs in approximately 80-90% of the patients.
+
+Other possible symptoms include pain during urination, frequent urination, or feeling the need to urinate without being able to do so. These signs and symptoms are not specific to bladder cancer, and are also caused by non-cancerous conditions, including prostate infections, over-active bladder and cystitis. There are many other causes of hematuria, such as bladder or ureteric stones, infection, kidney disease, kidney cancers and vascular malformations.
+
+Patients with advanced disease refer pelvic or bony pain, lower-extremity edema, or flank pain. Rarely a palpable mass can be detected on physical examination.
+
+
+
+
+Pathological classification[edit]
+90% of bladder cancers are transitional cell carcinoma. The other 10% are squamous cell carcinoma, adenocarcinoma, sarcoma, small cell carcinoma, and secondary deposits from cancers elsewhere in the body.[citation needed]
+
+Carcinoma in situ (CIS) invariably consists of cytologically high grade tumour cells.[citation needed]
+
+Staging[edit]
+
+Diagram showing the T stages of bladder cancer
+T (Primary tumour)
+
+TX Primary tumour cannot be assessed
+T0 No evidence of primary tumour
+Ta Non-invasive papillary carcinoma
+Tis Carcinoma in situ (‘flat tumour’)
+T1 Tumour invades subepithelial connective tissue
+T2a Tumour invades superficial muscle (inner half)
+T2b Tumour invades deep muscle (outer half)
+T3 Tumour invades perivesical tissue:
+T3a Microscopically
+T3b Macroscopically (extravesical mass)
+T4a Tumour invades prostate, uterus or vagina
+T4b Tumour invades pelvic wall or abdominal wall
+N (Lymph nodes)
+
+NX Regional lymph nodes cannot be assessed
+N0 No regional lymph node metastasis
+N1 Metastasis in a single lymph node 2 cm or less in greatest dimension
+N2 Metastasis in a single lymph node more than 2 cm but not more than 5 cm in greatest dimension,or multiple lymph nodes, none more than 5 cm in greatest dimension
+N3 Metastasis in a lymph node more than 5 cm in greatest dimension
+M (Distant metastasis)
+
+MX Distant metastasis cannot be assessed
+M0 No distant metastasis
+M1 Distant metastasis.
+[21]
+
+Screening[edit]
+As of 2010 there is insufficient evidence to determine if screening for bladder cancer in people without symptoms is effective or not.[22]
+
+Devices are being tested (one involved a preliminary, small study of 98 samples of urine, all from men -- 24 who had cancer, and 74 with bladder-related problems but no cancer yet) in which the heating of urine samples causes chemicals in the urine to release certain gases, and are detected by the device, presumably because of irregularities in the chemicals and gases. The researchers became interested in such a method after hearing that dogs could be trained to detect cancer-related odors.[23]
+
+Treatment[edit]
+
+Flow chart of the Bladder Cancer Treatment Guide
+
+Attenuated strain of M. bovis used in the treatment of bladder cancer
+The treatment of bladder cancer depends on how deep the tumor invades into the bladder wall. Superficial tumors (those not entering the muscle layer) can be "shaved off" using an electrocautery device attached to a cystoscope, which in that case is called a resectoscope. The procedure is called transurethral resection of bladder tumor—TURBT—and serves primarily for pathological staging. In case of non-muscle invasive bladder cancer the TURBT is in itself the treatment, but in case of muscle invasive cancer, the procedure is insufficient for final treatment.[20]
+
+Immunotherapy by intravesicular delivery of Bacillus Calmette–Guérin (BCG) is also used to treat and prevent the recurrence of superficial tumors.[24] BCG is a vaccine against tuberculosis that is prepared from attenuated (weakened) live bovine tuberculosis bacillus, Mycobacterium bovis, that has lost its virulence in humans. BCG immunotherapy is effective in up to 2/3 of the cases at this stage, and in randomized trials has been shown to be superior to standard chemotherapy.[25] The mechanism by which BCG prevents recurrence is unknown, but the presence of bacteria in the bladder may trigger a localized immune reaction which clears residual cancer cells.[26]
+
+Instillations of chemotherapy, such as valrubicin (Valstar) into the bladder, can also be used to treat BCG-refractory CIS disease when cystectomy is not an option.[27] The drug Urocidin is currently in Phase III of trials for this procedure.[28]
+
+Patients whose tumors recurred after treatment with BCG are more difficult to treat.[29] Many physicians recommend cystectomy for these patients. This recommendation is in accordance with the official guidelines of the European Association of Urologists (EAU)[30] and the American Urological Association (AUA)[31] However, many patients refuse to undergo this life changing operation, and prefer to try novel conservative treatment options before opting to this last radical resort. Device assisted chemotherapy is one such group of novel technologies used to treat superficial bladder cancer.[32] These technologies use different mechanisms to facilitate the absorption and action of a chemotherapy drug instilled directly into the bladder. Another technology uses an electrical current to enhance drug absorption.[33] Another technology, thermotherapy, uses radio-frequency energy to directly heat the bladder wall, which together with chemotherapy shows a synergistic effect, enhancing each other's capacity to kill tumor cells. This technology was studied by different investigators.[34][35][36][37]
+
+Untreated, superficial tumors may gradually begin to infiltrate the muscular wall of the bladder. Tumors that infiltrate the bladder require more radical surgery where part or all of the bladder is removed (a cystectomy) and the urinary stream is diverted into an isolated bowel loop (called an ileal conduit or Urostomy). In some cases, skilled surgeons can create a substitute bladder (a neobladder) from a segment of intestinal tissue, but this largely depends upon patient preference, age of patient, renal function, and the site of the disease.
+
+A combination of radiation and chemotherapy can also be used to treat invasive disease. It has not yet been determined how the effectiveness of this form of treatment compares to that of radical ablative surgery.
+
+Photodynamic diagnosis may improve surgical outcome on bladder cancer.[38]
+
+For muscle invasive urothelial urinary bladder cancer there are a number of treatment options. Gold standard is radical cystectomy as mentioned. In males this usually includes also the removal of the prostate and in females; ovaries, uterus and parts of the vagina. In order to address the problem of micrometastatic disease which in itself has implications on longtime survival, new treatment options are dearly needed. Micrometastatic dissemination is often not treatable with only major surgery and the concept of neoadjuvant chemotherapy has evolved. In a number of meta-analyses of randomised prospective trials worldwide, the results have shown survival benefits between 5–8% with this therapy, in a follow up time of 5 years.[39][40][41][42] Thus patients first receive chemotherapy in 3 or 4 cycles, and first after that proceed to major surgery.
+
+Epidemiology[edit]
+
+Age-standardized death from bladder cancer per 100,000 inhabitants in 2004.[43]
+  no data
+  less than 1.5
+  1.5–3
+  3–4.5
+  4.5–6
+  6–7.5
+  7.5–9
+  9–10.5
+  10.5–12
+  12–13.5
+  13.5–15
+  15–16.5
+  more than 16.5
+Worldwide[edit]
+Globally, in 2010, bladder cancer resulted in 170,000 deaths up from 114,000 in 1990.[44]
+
+US[edit]
+In the United States, bladder cancer is the fourth most common type of cancer in men and the ninth most common cancer in women. More than 50,000 men and 16,000 women are diagnosed with bladder cancer each year. Smoking can only partially explain this higher incidence in men.[45] One other reason is that the androgen receptor, which is much more active in men than in women, plays a major part in the development of the cancer.[46]

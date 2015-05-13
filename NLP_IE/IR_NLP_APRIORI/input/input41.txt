@@ -1,0 +1,8 @@
+Pathology[edit]
+
+Micrograph of an oligodendroglioma, a type of brain cancer. Brain biopsy. H&E stain.
+Tumors have characteristics that allow determination of malignacy and how they will evolve, and determining these characteristics will allow the medical team to determine the management plan.
+
+Anaplasia or dedifferentiation: loss of differentiation of cells and of their orientation to one another and blood vessels, a characteristic of anaplastic tumor tissue. Anaplastic cells have lost total control of their normal functions and many have deteriorated cell structures. Anaplastic cells often have abnormally high nuclear-to-cytoplasmic ratios, and many are multinucleated. Additionally, the nuclei of anaplastic cells are usually unnaturally shaped or oversized. Cells can become anaplastic in two ways: neoplastic tumor cells can dedifferentiate to become anaplasias (the dedifferentiation causes the cells to lose all of their normal structure/function), or cancer stem cells can increase in their capacity to multiply (i.e., uncontrollable growth due to failure of differentiation).
+
+Atypia: an indication of abnormality of a cell (which may be indicative for malignancy). Significance of the abnormality is highly dependent on context.

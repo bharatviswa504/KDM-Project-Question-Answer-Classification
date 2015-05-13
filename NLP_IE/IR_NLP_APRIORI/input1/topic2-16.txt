@@ -1,0 +1,1 @@
+have an old compaq desktop using SDRAM PC133 DIMMs <br>with PC3200 DDR 400MHz memory being so cheap wondering if this can be used to expand that box?,"No, the pin configuration of the DIMMS are different, as is the physical layout. Sorry."

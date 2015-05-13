@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Question & Answer Classification</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/stylish-portfolio.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+	<script type="text/javascript"
+	src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	
+
+
+<script type="text/javascript"
+	src="http://code.highcharts.com/highcharts.js"></script>
+<script type="text/javascript"
+	src="http://code.highcharts.com/modules/exporting.js"></script>
+
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+	<script type="text/javascript">
+		function analyze()
+		{
+			//alert("hello");
+			var q = document.getElementById("question").value;
+			var a = document.getElementById("answer").value;
+			//alert(q+a);
+			$.get("http://localhost:8080/KDMPro1/rest/qaservice/classify/"+q+"/"+a,
+			function(data)
+			{
+				var chartData = [];
+				//alert(data["answer"]);
+				//alert(data["categories"]);
+			//	for(var i=0;i<data["categories"].length;i++)
+				//	alert(data["categories"]);
+			//	alert(jsonData.categories.length);
+			var dd;
+			var category =[];
+				for(i=1;i<data["categories"].length;i++)
+				{
+					
+					var main = data["categories"][i];
+					var categoryValue = main["category"];
+					var accuracyValue = parseFloat(main["accuracy"]);
+					chartData.push({"name":categoryValue,"data":[parseFloat(accuracyValue)]});
+					category.push(categoryValue);
+					
+				dd += categoryValue + accuracyValue;
+					//debugger;
+				//	alert(categoryValue + "  " + accuracyValue);
+				}
+				//debugger;
+				//alert(data);
+		//	alert(dd);
+
+            $('#container1').highcharts({
+                chart: {
+                    type: 'bar',
+                    type: 'column'
+                },
+                title: {
+                    text: 'Q&A Classification'
+                },
+                subtitle: {
+                    text: ' '
+                },
+                xAxis: {
+                    title: {
+                        text: 'Category'
+                    },
+					//categories: category
+					
+                },
+				tooltip: {
+            valueDecimals: 250
+			},
+                yAxis: {
+
+                    title: {
+                        text: 'Confidence'
+                    },
+					type: 'logarithmic',
+                    labels: {
+                        overflow: 'justify'
+                    }
+					
+                },
+                plotOptions: {
+                    bar: {
+                        dataLabels: {
+                            enabled: true
+                        }
+                    }
+                },
+				
+			
+                series: chartData
+            });
+			 
+   
+			}
+			);
+		}
+	
+	</script>
+</head>
+
+<body>
+
+    
+    <!-- Header -->
+    <header id="top" class="header">
+        <div class="text-vertical-center">
+            <h1>Question & Answer Classification</h1>
+            <h3>Click Below to Know More</h3>
+            <br>
+            <a href="#about" class="btn btn-dark btn-lg">Find Out More</a>
+        </div>
+    </header>
+
+    <!-- About -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>KDM Project for Question & Answer Classification Using NLP and Machine Learning Techniques</h2>
+				</div>
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+
+    <!-- Services -->
+    <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
+    <section id="services" class="services bg-primary">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <h2>Input Question & Answer To Know its Classification</h2>
+					<a href="#other"class="btn btn-dark btn-lg"> Click Here For Further </a>
+                    <hr class="small">
+                </div>
+                <!-- /.col-lg-10 -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+	
+	<section id="qa" align ="center" class="about">
+	
+	Question: <input type="text" id="question" placeholder="Enter Question" size="30"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	
+	Answer: <input type="text" id="answer" placeholder="Enter Answer" size="30"/>
+	
+	<br/>
+	<br/>
+	<button type="button" onclick="analyze()"> Classify </button>
+	</section>
+	
+	
+	
+	<section id="output">
+	<div class="row content">
+        <div class="col-lg-12">
+            <div id="container1" style="min-width: 310px; max-width: 800px; height: 400px; margin: 0 auto"></div>
+        </div>
+    </div>
+	</section>
+	
+	<section id="services" class="services bg-primary">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-lg-10 col-lg-offset-1">
+					
+                    <h2>Re Train Method is the Builds the Model again. Click ReTrain for this</h2>
+					<h2> Upload the Input File </h2>
+                    <hr class="small">
+                </div>
+                <!-- /.col-lg-10 -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+	
+	
+	<section id="other" class="about" align="center">
+	<div>
+	<table class="table table-striped">
+	<tr align="center">
+	<th>
+	<button type="button" id="retrain"> ReTrain</button>
+	</th>
+	<th>
+	<span class="btn btn-file">Upload<input type="file" id="uploadfile"/></span>
+	</th>
+	</tr>
+	</table>
+	<div>
+	</section>
+	
+	
+	<aside class="call-to-action bg-primary">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h3>Go Back.</h3>
+                    <a href="#" class="btn btn-lg btn-light">Click to go Back</a>
+                </div>
+            </div>
+        </div>
+    </aside>
+
+
+</body>
+
+</html>

@@ -1,0 +1,250 @@
+<?xml version="1.0"?><!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2015//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_150101.dtd">
+<PubmedArticleSet>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17751433</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>66</Volume>
+						<Issue>1700</Issue>
+						<PubDate>
+							<Year>1927</Year>
+							<Month>Jul</Month>
+							<Day>29</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>MUSCLE, YEAST AND CANCER CELLS.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>112-4</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Snyder</LastName>
+						<ForeName>C D</ForeName>
+						<Initials>CD</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1927</Year>
+					<Month>7</Month>
+					<Day>29</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1927</Year>
+					<Month>7</Month>
+					<Day>29</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1927</Year>
+					<Month>7</Month>
+					<Day>29</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">66/1700/112-a</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.66.1700.112-a</ArticleId>
+				<ArticleId IdType="pubmed">17751433</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17802142</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>65</Volume>
+						<Issue>1675</Issue>
+						<PubDate>
+							<Year>1927</Year>
+							<Month>Feb</Month>
+							<Day>4</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>THE PREVALENCE OF CANCER.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>x</MedlinePgn>
+				</Pagination>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1927</Year>
+					<Month>2</Month>
+					<Day>4</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1927</Year>
+					<Month>2</Month>
+					<Day>4</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1927</Year>
+					<Month>2</Month>
+					<Day>4</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">65/1675/x-t</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.65.1675.0x-t</ArticleId>
+				<ArticleId IdType="pubmed">17802142</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+			<PMID Version="1">17838656</PMID>
+			<DateCreated>
+				<Year>2010</Year>
+				<Month>06</Month>
+				<Day>10</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2010</Year>
+				<Month>07</Month>
+				<Day>02</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Print">0036-8075</ISSN>
+					<JournalIssue CitedMedium="Print">
+						<Volume>65</Volume>
+						<Issue>1671</Issue>
+						<PubDate>
+							<Year>1927</Year>
+							<Month>Jan</Month>
+							<Day>7</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>BOVERI ON CANCER.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>14-5</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Wood</LastName>
+						<ForeName>F C</ForeName>
+						<Initials>FC</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Schneider</LastName>
+						<ForeName>A</ForeName>
+						<Initials>A</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>1927</Year>
+					<Month>1</Month>
+					<Day>7</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>1927</Year>
+					<Month>1</Month>
+					<Day>7</Day>
+					<Hour>0</Hour>
+					<Minute>1</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>1927</Year>
+					<Month>1</Month>
+					<Day>7</Day>
+					<Hour>0</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">65/1671/14</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.65.1671.14</ArticleId>
+				<ArticleId IdType="pubmed">17838656</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+</PubmedArticleSet>

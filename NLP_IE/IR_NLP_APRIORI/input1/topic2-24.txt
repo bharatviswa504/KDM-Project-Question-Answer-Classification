@@ -1,0 +1,1 @@
+What is the difference between software and hardware?,"Hardware is the physical componentry of a computer system. Memory chips, mice, monitors, and keyboards are all hardware. Software is the information stored on the computer, so programs and data are considered to be software. Basically, if you can email it to someone, it's software."

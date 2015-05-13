@@ -1,0 +1,5145 @@
+<?xml version="1.0"?><!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2015//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_150101.dtd">
+<PubmedArticleSet>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">18159634</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>12</Month>
+				<Day>21</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2008</Year>
+				<Month>01</Month>
+				<Day>08</Day>
+			</DateCompleted>
+			<DateRevised>
+				<Year>2008</Year>
+				<Month>11</Month>
+				<Day>21</Day>
+			</DateRevised>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5858</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Dec</Month>
+							<Day>21</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Cancer filter déjà vu.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>1864</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Koss</LastName>
+						<ForeName>Leopold G</ForeName>
+						<Initials>LG</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Melamed</LastName>
+						<ForeName>Myron R</ForeName>
+						<Initials>MR</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016420">Comment</PublicationType>
+					<PublicationType UI="D016422">Letter</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<CitationSubset>IM</CitationSubset>
+			<CommentsCorrectionsList>
+				<CommentsCorrections RefType="CommentOn">
+					<RefSource>Science. 2007 Aug 3;317(5838):585</RefSource>
+					<PMID Version="1">17673630</PMID>
+				</CommentsCorrections>
+			</CommentsCorrectionsList>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002469">Cell Separation</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D005374">Filtration</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+					<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D009360">Neoplastic
+						Cells, Circulating</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>27</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2008</Year>
+					<Month>1</Month>
+					<Day>9</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>27</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pubmed">18159634</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">18096799</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>12</Month>
+				<Day>21</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2008</Year>
+				<Month>01</Month>
+				<Day>08</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5858</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Dec</Month>
+							<Day>21</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Combinatorial synthesis of peptide arrays onto a
+					microchip.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>1888</MedlinePgn>
+				</Pagination>
+				<Abstract>
+					<AbstractText>Arrays promise to advance biology through parallel
+						screening for binding partners. We show the combinatorial in situ
+						synthesis of 40,000 peptide spots per square centimeter on a
+						microchip. Our variant Merrifield synthesis immobilizes activated
+						amino acids as monomers within particles, which are successively
+						attracted by electric fields generated on each pixel electrode of
+						the chip. With all different amino acids addressed, particles are
+						melted at once to initiate coupling. Repetitive coupling cycles
+						should allow for the translation of whole proteomes into arrays of
+						overlapping peptides that could be used for proteome research and
+						antibody profiling.</AbstractText>
+				</Abstract>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Beyer</LastName>
+						<ForeName>Mario</ForeName>
+						<Initials>M</Initials>
+						<AffiliationInfo>
+							<Affiliation>German Cancer Research Center, INF 580, 69120
+								Heidelberg, Germany.</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Nesterov</LastName>
+						<ForeName>Alexander</ForeName>
+						<Initials>A</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Block</LastName>
+						<ForeName>Ines</ForeName>
+						<Initials>I</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>König</LastName>
+						<ForeName>Kai</ForeName>
+						<Initials>K</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Felgenhauer</LastName>
+						<ForeName>Thomas</ForeName>
+						<Initials>T</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Fernandez</LastName>
+						<ForeName>Simon</ForeName>
+						<Initials>S</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Leibe</LastName>
+						<ForeName>Klaus</ForeName>
+						<Initials>K</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Torralba</LastName>
+						<ForeName>Gloria</ForeName>
+						<Initials>G</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Hausmann</LastName>
+						<ForeName>Michael</ForeName>
+						<Initials>M</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Trunk</LastName>
+						<ForeName>Ulrich</ForeName>
+						<Initials>U</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Lindenstruth</LastName>
+						<ForeName>Volker</ForeName>
+						<Initials>V</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Bischoff</LastName>
+						<ForeName>F Ralf</ForeName>
+						<Initials>FR</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Stadler</LastName>
+						<ForeName>Volker</ForeName>
+						<Initials>V</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Breitling</LastName>
+						<ForeName>Frank</ForeName>
+						<Initials>F</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+					<PublicationType UI="D013485">Research Support, Non-U.S.
+						Gov't</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D000596">Amino Acids</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D010455">Peptides</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000596">Amino Acids</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D020650">Combinatorial
+						Chemistry Techniques</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D004560">Electricity</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D010455">Peptides</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000138">chemical synthesis</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D040081">Protein Array
+						Analysis</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>22</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2008</Year>
+					<Month>1</Month>
+					<Day>9</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>22</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">318/5858/1888</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1149751</ArticleId>
+				<ArticleId IdType="pubmed">18096799</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">18096787</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>12</Month>
+				<Day>21</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2008</Year>
+				<Month>01</Month>
+				<Day>08</Day>
+			</DateCompleted>
+			<DateRevised>
+				<Year>2008</Year>
+				<Month>11</Month>
+				<Day>21</Day>
+			</DateRevised>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5858</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Dec</Month>
+							<Day>21</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Cancer filter déjà vu.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>1864</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Fleischer</LastName>
+						<ForeName>Robert L</ForeName>
+						<Initials>RL</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016420">Comment</PublicationType>
+					<PublicationType UI="D016422">Letter</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<CitationSubset>IM</CitationSubset>
+			<CommentsCorrectionsList>
+				<CommentsCorrections RefType="CommentOn">
+					<RefSource>Science. 2007 Aug 3;317(5838):585</RefSource>
+					<PMID Version="1">17673630</PMID>
+				</CommentsCorrections>
+			</CommentsCorrectionsList>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002469">Cell Separation</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D005374">Filtration</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D009360">Neoplastic
+						Cells, Circulating</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>22</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2008</Year>
+					<Month>1</Month>
+					<Day>9</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>22</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">318/5858/1864b</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.318.5858.1864b</ArticleId>
+				<ArticleId IdType="pubmed">18096787</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">18079394</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>12</Month>
+				<Day>14</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>12</Month>
+				<Day>31</Day>
+			</DateCompleted>
+			<DateRevised>
+				<Year>2013</Year>
+				<Month>11</Month>
+				<Day>21</Day>
+			</DateRevised>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5857</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Dec</Month>
+							<Day>14</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>The structure of a human p110alpha/p85alpha complex
+					elucidates the effects of oncogenic PI3Kalpha mutations.
+				</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>1744-8</MedlinePgn>
+				</Pagination>
+				<Abstract>
+					<AbstractText>PIK3CA, one of the two most frequently mutated
+						oncogenes in human tumors, codes for p110alpha, the catalytic
+						subunit of a phosphatidylinositol 3-kinase, isoform alpha
+						(PI3Kalpha, p110alpha/p85). Here, we report a 3.0 angstrom
+						resolution structure of a complex between p110alpha and a
+						polypeptide containing the p110alpha-binding domains of p85alpha,
+						a protein required for its enzymatic activity. The structure shows
+						that many of the mutations occur at residues lying at the
+						interfaces between p110alpha and p85alpha or between the kinase
+						domain of p110alpha and other domains within the catalytic
+						subunit. Disruptions of these interactions are likely to affect
+						the regulation of kinase activity by p85 or the catalytic activity
+						of the enzyme, respectively. In addition to providing new insights
+						about the structure of PI3Kalpha, these results suggest specific
+						mechanisms for the effect of oncogenic mutations in p110alpha and
+						p85alpha.</AbstractText>
+				</Abstract>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Huang</LastName>
+						<ForeName>Chuan-Hsiang</ForeName>
+						<Initials>CH</Initials>
+						<AffiliationInfo>
+							<Affiliation>Department of Biophysics and Biophysical Chemistry,
+								Johns Hopkins University School of Medicine, Baltimore, MD
+								21205, USA.</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Mandelker</LastName>
+						<ForeName>Diana</ForeName>
+						<Initials>D</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Schmidt-Kittler</LastName>
+						<ForeName>Oleg</ForeName>
+						<Initials>O</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Samuels</LastName>
+						<ForeName>Yardena</ForeName>
+						<Initials>Y</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Velculescu</LastName>
+						<ForeName>Victor E</ForeName>
+						<Initials>VE</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Kinzler</LastName>
+						<ForeName>Kenneth W</ForeName>
+						<Initials>KW</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Vogelstein</LastName>
+						<ForeName>Bert</ForeName>
+						<Initials>B</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Gabelli</LastName>
+						<ForeName>Sandra B</ForeName>
+						<Initials>SB</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Amzel</LastName>
+						<ForeName>L Mario</ForeName>
+						<Initials>LM</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<DataBankList CompleteYN="Y">
+					<DataBank>
+						<DataBankName>PDB</DataBankName>
+						<AccessionNumberList>
+							<AccessionNumber>2RD0</AccessionNumber>
+						</AccessionNumberList>
+					</DataBank>
+				</DataBankList>
+				<GrantList CompleteYN="Y">
+					<Grant>
+						<GrantID>CA 43460</GrantID>
+						<Acronym>CA</Acronym>
+						<Agency>NCI NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>GM 07184</GrantID>
+						<Acronym>GM</Acronym>
+						<Agency>NIGMS NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>GM066895</GrantID>
+						<Acronym>GM</Acronym>
+						<Agency>NIGMS NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>GM07309</GrantID>
+						<Acronym>GM</Acronym>
+						<Agency>NIGMS NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+				</GrantList>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+					<PublicationType UI="D052061">Research Support, N.I.H.,
+						Extramural</PublicationType>
+					<PublicationType UI="D013485">Research Support, Non-U.S.
+						Gov't</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D021122">Protein Subunits</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>8L70Q75FXE</RegistryNumber>
+					<NameOfSubstance UI="D000255">Adenosine Triphosphate</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>EC 2.7.1.-</RegistryNumber>
+					<NameOfSubstance UI="D019869">Phosphatidylinositol 3-Kinases</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>EC 2.7.1.137</RegistryNumber>
+					<NameOfSubstance UI="C484760">PIK3CA protein, human</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000255">Adenosine
+						Triphosphate</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000595">Amino Acid
+						Sequence</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D001665">Binding Sites</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D020134">Catalytic Domain</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D018360">Crystallography,
+						X-Ray</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008958">Models,
+						Molecular</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008969">Molecular
+						Sequence Data</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D009154">Mutation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D019869">Phosphatidylinositol
+						3-Kinases</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D011487">Protein
+						Conformation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D017510">Protein Folding</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D017433">Protein
+						Structure, Secondary</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D017434">Protein
+						Structure, Tertiary</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D021122">Protein Subunits</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D018909">src Homology
+						Domains</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>15</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2008</Year>
+					<Month>1</Month>
+					<Day>1</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>15</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">318/5857/1744</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1150799</ArticleId>
+				<ArticleId IdType="pubmed">18079394</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">18079385</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>12</Month>
+				<Day>14</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>12</Month>
+				<Day>31</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5857</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Dec</Month>
+							<Day>14</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Comment on &quot;Tumor growth need not be driven by
+					rare cancer stem cells&quot;.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>1722; author reply 1722</MedlinePgn>
+				</Pagination>
+				<Abstract>
+					<AbstractText>Kelly et al. (Brevia, 20 July 2007, p. 337)
+						questioned xenotransplant experiments supporting the cancer stem
+						cell (CSC) hypothesis because they found a high frequency of
+						leukemia-initiating cells (L-IC) in some transgenic mouse models.
+						However, the CSC hypothesis depends on prospective purification of
+						cells with tumor-initiating capacity, irrespective of frequency.
+						Moreover, we found similar L-IC frequencies in genetically
+						comparable leukemias using syngeneic or xenogeneic models.
+					</AbstractText>
+				</Abstract>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Kennedy</LastName>
+						<ForeName>James A</ForeName>
+						<Initials>JA</Initials>
+						<AffiliationInfo>
+							<Affiliation>Division of Cell and Molecular Biology, University
+								Health Network, Toronto, Canada.</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Barabé</LastName>
+						<ForeName>Frédéric</ForeName>
+						<Initials>F</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Poeppl</LastName>
+						<ForeName>Armando G</ForeName>
+						<Initials>AG</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Wang</LastName>
+						<ForeName>Jean C Y</ForeName>
+						<Initials>JC</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Dick</LastName>
+						<ForeName>John E</ForeName>
+						<Initials>JE</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016420">Comment</PublicationType>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<CitationSubset>IM</CitationSubset>
+			<CommentsCorrectionsList>
+				<CommentsCorrections RefType="CommentOn">
+					<RefSource>Science. 2007 Jul 20;317(5836):337</RefSource>
+					<PMID Version="1">17641192</PMID>
+				</CommentsCorrections>
+			</CommentsCorrectionsList>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D001854">Bone Marrow
+						Cells</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D016026">Bone Marrow
+						Transplantation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002469">Cell Separation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D004195">Disease Models,
+						Animal</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D007938">Leukemia</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D015470">Leukemia,
+						Myeloid, Acute</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008822">Mice, Transgenic</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009368">Neoplasm
+						Transplantation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D014411">Neoplastic Stem
+						Cells</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+					<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D054198">Precursor Cell
+						Lymphoblastic Leukemia-Lymphoma</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D014183">Transplantation,
+						Heterologous</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>15</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2008</Year>
+					<Month>1</Month>
+					<Day>1</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>15</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">318/5857/1722c</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1149590</ArticleId>
+				<ArticleId IdType="pubmed">18079385</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">18033865</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>11</Month>
+				<Day>23</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>12</Month>
+				<Day>06</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5854</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Nov</Month>
+							<Day>23</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Estrogen and tumors: for better or for worse?
+				</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>1239-40; author reply 1239-40</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>van der Windt</LastName>
+						<ForeName>Dirk J</ForeName>
+						<Initials>DJ</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Kok</LastName>
+						<ForeName>Niels F M</ForeName>
+						<Initials>NF</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Ijzermans</LastName>
+						<ForeName>Jan</ForeName>
+						<Initials>J</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016420">Comment</PublicationType>
+					<PublicationType UI="D016422">Letter</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D003278">Contraceptives, Oral, Hormonal</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D004967">Estrogens</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<CommentsCorrectionsList>
+				<CommentsCorrections RefType="CommentOn">
+					<RefSource>Science. 2007 Jul 6;317(5834):121-4</RefSource>
+					<PMID Version="1">17615358</PMID>
+				</CommentsCorrections>
+			</CommentsCorrectionsList>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D018248">Adenoma, Liver
+						Cell</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006528">Carcinoma,
+						Hepatocellular</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D003278">Contraceptives,
+						Oral, Hormonal</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000008">administration
+						&amp; dosage</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D018450">Disease
+						Progression</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D004967">Estrogens</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000008">administration
+						&amp; dosage</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008107">Liver Diseases</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008113">Liver Neoplasms</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+					<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008114">Liver Neoplasms,
+						Experimental</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D012727">Sex
+						Characteristics</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>24</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>7</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>24</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">318/5854/1239c</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.318.5854.1239c</ArticleId>
+				<ArticleId IdType="pubmed">18033865</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">18029452</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>12</Month>
+				<Day>21</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2008</Year>
+				<Month>01</Month>
+				<Day>08</Day>
+			</DateCompleted>
+			<DateRevised>
+				<Year>2014</Year>
+				<Month>11</Month>
+				<Day>20</Day>
+			</DateRevised>
+			<Article PubModel="Print-Electronic">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5858</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Dec</Month>
+							<Day>21</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Induced pluripotent stem cell lines derived from human
+					somatic cells.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>1917-20</MedlinePgn>
+				</Pagination>
+				<Abstract>
+					<AbstractText>Somatic cell nuclear transfer allows trans-acting
+						factors present in the mammalian oocyte to reprogram somatic cell
+						nuclei to an undifferentiated state. We show that four factors
+						(OCT4, SOX2, NANOG, and LIN28) are sufficient to reprogram human
+						somatic cells to pluripotent stem cells that exhibit the essential
+						characteristics of embryonic stem (ES) cells. These induced
+						pluripotent human stem cells have normal karyotypes, express
+						telomerase activity, express cell surface markers and genes that
+						characterize human ES cells, and maintain the developmental
+						potential to differentiate into advanced derivatives of all three
+						primary germ layers. Such induced pluripotent human cell lines
+						should be useful in the production of new disease models and in
+						drug development, as well as for applications in transplantation
+						medicine, once technical limitations (for example, mutation
+						through viral integration) are eliminated.</AbstractText>
+				</Abstract>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Yu</LastName>
+						<ForeName>Junying</ForeName>
+						<Initials>J</Initials>
+						<AffiliationInfo>
+							<Affiliation>Genome Center of Wisconsin, Madison, WI 53706-1580,
+								USA. jyu@primate.wisc.edu</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Vodyanik</LastName>
+						<ForeName>Maxim A</ForeName>
+						<Initials>MA</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Smuga-Otto</LastName>
+						<ForeName>Kim</ForeName>
+						<Initials>K</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Antosiewicz-Bourget</LastName>
+						<ForeName>Jessica</ForeName>
+						<Initials>J</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Frane</LastName>
+						<ForeName>Jennifer L</ForeName>
+						<Initials>JL</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Tian</LastName>
+						<ForeName>Shulan</ForeName>
+						<Initials>S</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Nie</LastName>
+						<ForeName>Jeff</ForeName>
+						<Initials>J</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Jonsdottir</LastName>
+						<ForeName>Gudrun A</ForeName>
+						<Initials>GA</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Ruotti</LastName>
+						<ForeName>Victor</ForeName>
+						<Initials>V</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Stewart</LastName>
+						<ForeName>Ron</ForeName>
+						<Initials>R</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Slukvin</LastName>
+						<ForeName>Igor I</ForeName>
+						<Initials>II</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Thomson</LastName>
+						<ForeName>James A</ForeName>
+						<Initials>JA</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<DataBankList CompleteYN="Y">
+					<DataBank>
+						<DataBankName>GEO</DataBankName>
+						<AccessionNumberList>
+							<AccessionNumber>GSE9164</AccessionNumber>
+						</AccessionNumberList>
+					</DataBank>
+				</DataBankList>
+				<GrantList CompleteYN="Y">
+					<Grant>
+						<GrantID>P20 GM069981</GrantID>
+						<Acronym>GM</Acronym>
+						<Agency>NIGMS NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>P51 RR000167</GrantID>
+						<Acronym>RR</Acronym>
+						<Agency>NCRR NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+				</GrantList>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+					<PublicationType UI="D052061">Research Support, N.I.H.,
+						Extramural</PublicationType>
+					<PublicationType UI="D013485">Research Support, Non-U.S.
+						Gov't</PublicationType>
+				</PublicationTypeList>
+				<ArticleDate DateType="Electronic">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>20</Day>
+				</ArticleDate>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D004268">DNA-Binding Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D024002">HMGB Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D018398">Homeodomain Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C523054">LIN-28 protein, human</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C486780">NANOG protein, human</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D050814">Octamer Transcription Factor-3</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D016601">RNA-Binding Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C527782">SOX2 protein, human</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D055748">SOXB1 Transcription Factors</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C527783">Sox2 protein, mouse</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<CommentsCorrectionsList>
+				<CommentsCorrections RefType="CommentIn">
+					<RefSource>Science. 2007 Dec 21;318(5858):1879-80</RefSource>
+					<PMID Version="1">18096796</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="CommentIn">
+					<RefSource>Arch Iran Med. 2008 Jan;11(1):125-8</RefSource>
+					<PMID Version="1">18154436</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="CommentIn">
+					<RefSource>Science. 2007 Dec 21;318(5858):1865</RefSource>
+					<PMID Version="1">18096789</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="CommentIn">
+					<RefSource>Nat Rev Mol Cell Biol. 2010 Oct;11(10):677</RefSource>
+					<PMID Version="1">20861870</PMID>
+				</CommentsCorrections>
+			</CommentsCorrectionsList>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002454">Cell
+						Differentiation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D002460">Cell Line</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D049109">Cell
+						Proliferation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D048430">Cell Shape</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D065150">Cellular
+						Reprogramming</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D004268">DNA-Binding
+						Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D053595">Embryonic Stem
+						Cells</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D005333">Fetus</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D005347">Fibroblasts</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D024002">HMGB Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D018398">Homeodomain
+						Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D007621">Karyotyping</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D016513">Mice, SCID</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D050814">Octamer
+						Transcription Factor-3</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D020411">Oligonucleotide
+						Array Sequence Analysis</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D039904">Pluripotent Stem
+						Cells</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D016601">RNA-Binding
+						Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D055748">SOXB1
+						Transcription Factors</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D033581">Stem Cell
+						Transplantation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D013724">Teratoma</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D014157">Transcription
+						Factors</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D014161">Transduction,
+						Genetic</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D019076">Transgenes</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="aheadofprint">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>20</Day>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>22</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2008</Year>
+					<Month>1</Month>
+					<Day>9</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>22</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">1151526</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1151526</ArticleId>
+				<ArticleId IdType="pubmed">18029452</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">18006747</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>11</Month>
+				<Day>16</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>12</Month>
+				<Day>06</Day>
+			</DateCompleted>
+			<DateRevised>
+				<Year>2014</Year>
+				<Month>09</Month>
+				<Day>22</Day>
+			</DateRevised>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5853</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Nov</Month>
+							<Day>16</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Promotion of tissue inflammation by the immune
+					receptor Tim-3 expressed on innate immune cells.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>1141-3</MedlinePgn>
+				</Pagination>
+				<Abstract>
+					<AbstractText>CD4+ T helper 1 (TH1) cells are important mediators
+						of inflammation and are regulated by numerous pathways, including
+						the negative immune receptor Tim-3. We found that Tim-3 is
+						constitutively expressed on cells of the innate immune system in
+						both mice and humans, and that it can synergize with Toll-like
+						receptors. Moreover, an antibody agonist of Tim-3 acted as an
+						adjuvant during induced immune responses, and Tim-3 ligation
+						induced distinct signaling events in T cells and dendritic cells;
+						the latter finding could explain the apparent divergent functions
+						of Tim-3 in these cell types. Thus, by virtue of differential
+						expression on innate versus adaptive immune cells, Tim-3 can
+						either promote or terminate TH1 immunity and may be able to
+						influence a range of inflammatory conditions.</AbstractText>
+				</Abstract>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Anderson</LastName>
+						<ForeName>Ana C</ForeName>
+						<Initials>AC</Initials>
+						<AffiliationInfo>
+							<Affiliation>Division of Molecular Immunology, Center for
+								Neurologic Diseases, Brigham and Women's Hospital and Harvard
+								Medical School, Boston, MA 02115, USA.</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Anderson</LastName>
+						<ForeName>David E</ForeName>
+						<Initials>DE</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Bregoli</LastName>
+						<ForeName>Lisa</ForeName>
+						<Initials>L</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Hastings</LastName>
+						<ForeName>William D</ForeName>
+						<Initials>WD</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Kassam</LastName>
+						<ForeName>Nasim</ForeName>
+						<Initials>N</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Lei</LastName>
+						<ForeName>Charles</ForeName>
+						<Initials>C</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Chandwaskar</LastName>
+						<ForeName>Rucha</ForeName>
+						<Initials>R</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Karman</LastName>
+						<ForeName>Jozsef</ForeName>
+						<Initials>J</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Su</LastName>
+						<ForeName>Ee W</ForeName>
+						<Initials>EW</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Hirashima</LastName>
+						<ForeName>Mitsuomi</ForeName>
+						<Initials>M</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Bruce</LastName>
+						<ForeName>Jeffrey N</ForeName>
+						<Initials>JN</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Kane</LastName>
+						<ForeName>Lawrence P</ForeName>
+						<Initials>LP</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Kuchroo</LastName>
+						<ForeName>Vijay K</ForeName>
+						<Initials>VK</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Hafler</LastName>
+						<ForeName>David A</ForeName>
+						<Initials>DA</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<GrantList CompleteYN="Y">
+					<Grant>
+						<GrantID>R01 AI067544</GrantID>
+						<Acronym>AI</Acronym>
+						<Agency>NIAID NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>R01 AI067544-01A2</GrantID>
+						<Acronym>AI</Acronym>
+						<Agency>NIAID NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>R56 AI067544</GrantID>
+						<Acronym>AI</Acronym>
+						<Agency>NIAID NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>R56 AI067544-01A1</GrantID>
+						<Acronym>AI</Acronym>
+						<Agency>NIAID NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>R56 AI067544-02</GrantID>
+						<Acronym>AI</Acronym>
+						<Agency>NIAID NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+				</GrantList>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+					<PublicationType UI="D052061">Research Support, N.I.H.,
+						Extramural</PublicationType>
+					<PublicationType UI="D013485">Research Support, Non-U.S.
+						Gov't</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D039481">Antigens, CD11b</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D037161">Galectins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C448908">HAVCR2 protein, human</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C442241">Havcr2 protein, mouse</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C509295">ITGAM protein, human</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D018836">Inflammation Mediators</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C105032">LGALS9 protein, human</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D008070">Lipopolysaccharides</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D008565">Membrane Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D011971">Receptors, Immunologic</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D011991">Receptors, Virus</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D051193">Toll-Like Receptors</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D039481">Antigens, CD11b</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D001253">Astrocytes</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D016543">Central Nervous
+						System Neoplasms</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D003713">Dendritic Cells</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D004681">Encephalomyelitis,
+						Autoimmune, Experimental</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D037161">Galectins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D005909">Glioblastoma</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D007113">Immunity, Innate</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D018836">Inflammation
+						Mediators</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008070">Lipopolysaccharides</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008264">Macrophages</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008565">Membrane
+						Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+					<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D017628">Microglia</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009103">Multiple
+						Sclerosis</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D011971">Receptors,
+						Immunologic</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+					<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D011991">Receptors, Virus</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+					<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D015398">Signal
+						Transduction</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D013601">T-Lymphocytes</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D018417">Th1 Cells</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D051193">Toll-Like
+						Receptors</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>17</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>7</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>17</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">318/5853/1141</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1148536</ArticleId>
+				<ArticleId IdType="pubmed">18006747</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">18006731</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>11</Month>
+				<Day>16</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>12</Month>
+				<Day>06</Day>
+			</DateCompleted>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5853</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Nov</Month>
+							<Day>16</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Cancer. The gene topography of cancer.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>1079-80</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Trent</LastName>
+						<ForeName>Jeffrey M</ForeName>
+						<Initials>JM</Initials>
+						<AffiliationInfo>
+							<Affiliation>Translational Genomics Research Institute, Phoenix,
+								AZ 85004, USA. jtrent@tgen.org</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Touchman</LastName>
+						<ForeName>Jeffrey W</ForeName>
+						<Initials>JW</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016420">Comment</PublicationType>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D004273">DNA, Neoplasm</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<CommentsCorrectionsList>
+				<CommentsCorrections RefType="CommentOn">
+					<RefSource>Science. 2007 Nov 16;318(5853):1108-13</RefSource>
+					<PMID Version="1">17932254</PMID>
+				</CommentsCorrections>
+			</CommentsCorrectionsList>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D015179">Colorectal
+						Neoplasms</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D004273">DNA, Neoplasm</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D052138">Genes, Neoplasm</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D015894">Genome, Human</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D009154">Mutation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D017422">Sequence
+						Analysis, DNA</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>17</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>7</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>17</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">318/5853/1079</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1151428</ArticleId>
+				<ArticleId IdType="pubmed">18006731</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">18006705</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>12</Month>
+				<Day>07</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>12</Month>
+				<Day>19</Day>
+			</DateCompleted>
+			<DateRevised>
+				<Year>2014</Year>
+				<Month>09</Month>
+				<Day>04</Day>
+			</DateRevised>
+			<Article PubModel="Print-Electronic">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5856</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Dec</Month>
+							<Day>7</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Orchestration of the DNA-damage response by the RNF8
+					ubiquitin ligase.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>1637-40</MedlinePgn>
+				</Pagination>
+				<Abstract>
+					<AbstractText>Cells respond to DNA double-strand breaks by
+						recruiting factors such as the DNA-damage mediator protein MDC1,
+						the p53-binding protein 1 (53BP1), and the breast cancer
+						susceptibility protein BRCA1 to sites of damaged DNA. Here, we
+						reveal that the ubiquitin ligase RNF8 mediates ubiquitin
+						conjugation and 53BP1 and BRCA1 focal accumulation at sites of DNA
+						lesions. Moreover, we establish that MDC1 recruits RNF8 through
+						phosphodependent interactions between the RNF8 forkhead-associated
+						domain and motifs in MDC1 that are phosphorylated by the
+						DNA-damage activated protein kinase ataxia telangiectasia mutated
+						(ATM). We also show that depletion of the E2 enzyme UBC13 impairs
+						53BP1 recruitment to sites of damage, which suggests that it
+						cooperates with RNF8. Finally, we reveal that RNF8 promotes the
+						G2/M DNA damage checkpoint and resistance to ionizing radiation.
+						These results demonstrate how the DNA-damage response is
+						orchestrated by ATM-dependent phosphorylation of MDC1 and
+						RNF8-mediated ubiquitination.</AbstractText>
+				</Abstract>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Kolas</LastName>
+						<ForeName>Nadine K</ForeName>
+						<Initials>NK</Initials>
+						<AffiliationInfo>
+							<Affiliation>Samuel Lunenfeld Research Institute, Mount Sinai
+								Hospital, 600 University Avenue, Toronto M5G1X5, Ontario,
+								Canada.</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Chapman</LastName>
+						<ForeName>J Ross</ForeName>
+						<Initials>JR</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Nakada</LastName>
+						<ForeName>Shinichiro</ForeName>
+						<Initials>S</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Ylanko</LastName>
+						<ForeName>Jarkko</ForeName>
+						<Initials>J</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Chahwan</LastName>
+						<ForeName>Richard</ForeName>
+						<Initials>R</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Sweeney</LastName>
+						<ForeName>Frédéric D</ForeName>
+						<Initials>FD</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Panier</LastName>
+						<ForeName>Stephanie</ForeName>
+						<Initials>S</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Mendez</LastName>
+						<ForeName>Megan</ForeName>
+						<Initials>M</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Wildenhain</LastName>
+						<ForeName>Jan</ForeName>
+						<Initials>J</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Thomson</LastName>
+						<ForeName>Timothy M</ForeName>
+						<Initials>TM</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Pelletier</LastName>
+						<ForeName>Laurence</ForeName>
+						<Initials>L</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Jackson</LastName>
+						<ForeName>Stephen P</ForeName>
+						<Initials>SP</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Durocher</LastName>
+						<ForeName>Daniel</ForeName>
+						<Initials>D</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<GrantList CompleteYN="Y">
+					<Grant>
+						<GrantID>A5290</GrantID>
+						<Agency>Cancer Research UK</Agency>
+						<Country>United Kingdom</Country>
+					</Grant>
+				</GrantList>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+					<PublicationType UI="D013485">Research Support, Non-U.S.
+						Gov't</PublicationType>
+				</PublicationTypeList>
+				<ArticleDate DateType="Electronic">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>15</Day>
+				</ArticleDate>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D019313">BRCA1 Protein</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C492913">BRCA1 protein, human</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D018797">Cell Cycle Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D004268">DNA-Binding Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D047908">Intracellular Signaling
+						Peptides and Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C413163">MDC1 protein, human</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D009687">Nuclear Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D034741">RNA, Small Interfering</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C486521">RNF8 protein, human</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C498301">TP53BP1 protein, human</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D015534">Trans-Activators</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D025521">Tumor Suppressor Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D025801">Ubiquitin</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>EC 2.7.11.1</RegistryNumber>
+					<NameOfSubstance UI="C576324">ATM protein, human</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>EC 2.7.11.1</RegistryNumber>
+					<NameOfSubstance UI="D064007">Ataxia Telangiectasia Mutated
+						Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>EC 2.7.11.1</RegistryNumber>
+					<NameOfSubstance UI="D017346">Protein-Serine-Threonine
+						Kinases</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>EC 6.3.2.19</RegistryNumber>
+					<NameOfSubstance UI="C471607">UBE2N protein, human</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>EC 6.3.2.19</RegistryNumber>
+					<NameOfSubstance UI="D044763">Ubiquitin-Conjugating Enzymes</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>EC 6.3.2.19</RegistryNumber>
+					<NameOfSubstance UI="D044767">Ubiquitin-Protein Ligases</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<CommentsCorrectionsList>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Science. 2007 May 25;316(5828):1194-8</RefSource>
+					<PMID Version="1">17525340</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Science. 2007 May 25;316(5828):1198-202</RefSource>
+					<PMID Version="1">17525341</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Science. 2007 May 25;316(5828):1202-5</RefSource>
+					<PMID Version="1">17525342</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Cancer Res. 2007 Jul 15;67(14):6647-56</RefSource>
+					<PMID Version="1">17621610</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Curr Biol. 2000 Jul 27-Aug 10;10(15):886-95</RefSource>
+					<PMID Version="1">10959836</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>J Cell Biol. 2000 Dec 25;151(7):1381-90</RefSource>
+					<PMID Version="1">11134068</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Eur J Biochem. 2001 May;268(9):2725-32</RefSource>
+					<PMID Version="1">11322894</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nat Cell Biol. 2002 Dec;4(12):998-1002</RefSource>
+					<PMID Version="1">12447382</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nature. 2003 Feb 27;421(6926):952-6</RefSource>
+					<PMID Version="1">12607003</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nature. 2003 Feb 27;421(6926):961-6</RefSource>
+					<PMID Version="1">12607005</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nat Cell Biol. 2003 Jul;5(7):675-9</RefSource>
+					<PMID Version="1">12792649</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Oncogene. 2003 Oct 16;22(46):7101-7</RefSource>
+					<PMID Version="1">14562038</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Cancer Res. 2004 Apr 1;64(7):2390-6</RefSource>
+					<PMID Version="1">15059890</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Mol Cell Biol. 1997 Oct;17(10):6087-96</RefSource>
+					<PMID Version="1">9315668</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Mol Cell. 1999 Sep;4(3):387-94</RefSource>
+					<PMID Version="1">10518219</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Cancer Res. 2004 Dec 15;64(24):9152-9</RefSource>
+					<PMID Version="1">15604286</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>J Cell Biol. 2005 Jul 18;170(2):201-11</RefSource>
+					<PMID Version="1">16009723</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>J Biol Chem. 2005 Sep 16;280(37):32053-6</RefSource>
+					<PMID Version="1">16049003</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nat Methods. 2005 Oct;2(10):779-84</RefSource>
+					<PMID Version="1">16179925</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Cell. 2005 Dec 29;123(7):1213-26</RefSource>
+					<PMID Version="1">16377563</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>J Cell Biochem. 2006 Feb 15;97(3):572-82</RefSource>
+					<PMID Version="1">16215985</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Mol Cell. 2006 Jan 20;21(2):187-200</RefSource>
+					<PMID Version="1">16427009</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>J Cell Biol. 2006 Apr 24;173(2):195-206</RefSource>
+					<PMID Version="1">16618811</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Mol Cell. 2007 Mar 9;25(5):663-75</RefSource>
+					<PMID Version="1">17349954</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Curr Opin Cell Biol. 2007 Apr;19(2):238-45</RefSource>
+					<PMID Version="1">17303408</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Science. 2007 May 25;316(5828):1160-6</RefSource>
+					<PMID Version="1">17525332</PMID>
+				</CommentsCorrections>
+			</CommentsCorrectionsList>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D020816">Amino Acid
+						Motifs</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000595">Amino Acid
+						Sequence</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D064007">Ataxia
+						Telangiectasia Mutated Proteins</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D019313">BRCA1 Protein</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D018797">Cell Cycle
+						Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D022003">Cell Nucleus
+						Structures</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D053903">DNA Breaks,
+						Double-Stranded</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D004260">DNA Repair</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D004268">DNA-Binding
+						Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+					<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006367">HeLa Cells</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D047908">Intracellular
+						Signaling Peptides and Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008969">Molecular
+						Sequence Data</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009687">Nuclear Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D010766">Phosphorylation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D017434">Protein
+						Structure, Tertiary</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D017346">Protein-Serine-Threonine
+						Kinases</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D034741">RNA, Small
+						Interfering</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D015534">Trans-Activators</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D025521">Tumor Suppressor
+						Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D025801">Ubiquitin</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D044763">Ubiquitin-Conjugating
+						Enzymes</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D044767">Ubiquitin-Protein
+						Ligases</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D054875">Ubiquitination</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+			<OtherID Source="NLM">PMC2430610</OtherID>
+			<OtherID Source="NLM">UKMS1941</OtherID>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="aheadofprint">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>15</Day>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>17</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>20</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>17</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">1150034</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1150034</ArticleId>
+				<ArticleId IdType="pubmed">18006705</ArticleId>
+				<ArticleId IdType="pmc">PMC2430610</ArticleId>
+				<ArticleId IdType="mid">UKMS1941</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">17947584</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>10</Month>
+				<Day>19</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>11</Month>
+				<Day>05</Day>
+			</DateCompleted>
+			<DateRevised>
+				<Year>2009</Year>
+				<Month>11</Month>
+				<Day>19</Day>
+			</DateRevised>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5849</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Oct</Month>
+							<Day>19</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Network analysis of oncogenic Ras activation in
+					cancer.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>463-7</MedlinePgn>
+				</Pagination>
+				<Abstract>
+					<AbstractText>To investigate the unregulated Ras activation
+						associated with cancer, we developed and validated a mathematical
+						model of Ras signaling. The model-based predictions and associated
+						experiments help explain why only one of two classes of activating
+						Ras point mutations with in vitro transformation potential is
+						commonly found in cancers. Model-based analysis of these mutants
+						uncovered a systems-level process that contributes to total Ras
+						activation in cells. This predicted behavior was supported by
+						experimental observations. We also used the model to identify a
+						strategy in which a drug could cause stronger inhibition on the
+						cancerous Ras network than on the wild-type network. This
+						system-level analysis of the oncogenic Ras network provides new
+						insights and potential therapeutic strategies.</AbstractText>
+				</Abstract>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Stites</LastName>
+						<ForeName>Edward C</ForeName>
+						<Initials>EC</Initials>
+						<AffiliationInfo>
+							<Affiliation>Beirne B. Carter Center for Immunology Research and
+								the Department of Microbiology, University of Virginia,
+								Charlottesville, VA 22908, USA.</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Trampont</LastName>
+						<ForeName>Paul C</ForeName>
+						<Initials>PC</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Ma</LastName>
+						<ForeName>Zhong</ForeName>
+						<Initials>Z</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Ravichandran</LastName>
+						<ForeName>Kodi S</ForeName>
+						<Initials>KS</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+					<PublicationType UI="D052061">Research Support, N.I.H.,
+						Extramural</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D020690">GTPase-Activating Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>146-91-8</RegistryNumber>
+					<NameOfSubstance UI="D006153">Guanosine Diphosphate</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>86-01-1</RegistryNumber>
+					<NameOfSubstance UI="D006160">Guanosine Triphosphate</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>EC 2.7.11.24</RegistryNumber>
+					<NameOfSubstance UI="D048049">Extracellular Signal-Regulated
+						MAP Kinases</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>EC 3.6.1.-</RegistryNumber>
+					<NameOfSubstance UI="D020558">GTP Phosphohydrolases</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>EC 3.6.5.2</RegistryNumber>
+					<NameOfSubstance UI="D018631">ras Proteins</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic
+						Agents</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002471">Cell
+						Transformation, Neoplastic</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D003198">Computer
+						Simulation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D048049">Extracellular
+						Signal-Regulated MAP Kinases</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D020558">GTP
+						Phosphohydrolases</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D020690">GTPase-Activating
+						Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp;
+						inhibitors</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D011905">Genes, ras</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006153">Guanosine
+						Diphosphate</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006160">Guanosine
+						Triphosphate</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008433">Mathematics</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D053858">Metabolic
+						Networks and Pathways</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D008954">Models,
+						Biological</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D010766">Phosphorylation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D017354">Point Mutation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D015398">Signal
+						Transduction</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D018631">ras Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp;
+						inhibitors</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>20</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>6</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>20</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">318/5849/463</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1144642</ArticleId>
+				<ArticleId IdType="pubmed">17947584</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">17947570</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>10</Month>
+				<Day>19</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>11</Month>
+				<Day>05</Day>
+			</DateCompleted>
+			<DateRevised>
+				<Year>2009</Year>
+				<Month>11</Month>
+				<Day>19</Day>
+			</DateRevised>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5849</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Oct</Month>
+							<Day>19</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Molecular biology. Unlocking cell fate.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>403-4</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Rivenbark</LastName>
+						<ForeName>Ashley G</ForeName>
+						<Initials>AG</Initials>
+						<AffiliationInfo>
+							<Affiliation>Department of Biochemistry and Biophysics, UNC
+								Lineberger Comprehensive Cancer Center, University of North
+								Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.
+							</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Strahl</LastName>
+						<ForeName>Brian D</ForeName>
+						<Initials>BD</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016420">Comment</PublicationType>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D002843">Chromatin</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D006657">Histones</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D011956">Receptors, Cell Surface</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>EC 1.14.11.-</RegistryNumber>
+					<NameOfSubstance UI="C498707">JMJD6 protein, human</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>EC 1.14.11.-</RegistryNumber>
+					<NameOfSubstance UI="D056484">Jumonji Domain-Containing
+						Histone Demethylases</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<CommentsCorrectionsList>
+				<CommentsCorrections RefType="CommentOn">
+					<RefSource>Science. 2007 Oct 19;318(5849):444-7</RefSource>
+					<PMID Version="1">17947579</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="CommentOn">
+					<RefSource>Science. 2007 Oct 19;318(5849):447-50</RefSource>
+					<PMID Version="1">17761849</PMID>
+				</CommentsCorrections>
+			</CommentsCorrectionsList>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002454">Cell
+						Differentiation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D019070">Cell Lineage</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002843">Chromatin</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D047108">Embryonic
+						Development</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D044127">Epigenesis,
+						Genetic</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D018507">Gene Expression
+						Regulation, Developmental</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D005801">Genes, Homeobox</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D042421">Histone Code</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006657">Histones</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D056484">Jumonji
+						Domain-Containing Histone Demethylases</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008745">Methylation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D011401">Promoter
+						Regions, Genetic</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D011499">Protein
+						Processing, Post-Translational</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D011956">Receptors, Cell
+						Surface</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D014158">Transcription,
+						Genetic</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>20</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2007</Year>
+					<Month>11</Month>
+					<Day>6</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>20</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">318/5849/403</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1150321</ArticleId>
+				<ArticleId IdType="pubmed">17947570</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">17932299</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>10</Month>
+				<Day>12</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>10</Month>
+				<Day>25</Day>
+			</DateCompleted>
+			<DateRevised>
+				<Year>2014</Year>
+				<Month>10</Month>
+				<Day>28</Day>
+			</DateRevised>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5848</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Oct</Month>
+							<Day>12</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Fluorescence-force spectroscopy maps two-dimensional
+					reaction landscape of the holliday junction.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>279-83</MedlinePgn>
+				</Pagination>
+				<Abstract>
+					<AbstractText>Despite the recent advances in single-molecule
+						manipulation techniques, purely mechanical approaches cannot
+						detect subtle conformational changes in the biologically important
+						regime of weak forces. We developed a hybrid scheme combining
+						force and fluorescence that allowed us to examine the effect of
+						subpiconewton forces on the nanometer scale motion of the Holliday
+						junction (HJ) at 100-hertz bandwidth. The HJ is an exquisitely
+						sensitive force sensor whose force response is amplified with an
+						increase in its arm lengths, demonstrating a lever-arm effect at
+						the nanometer-length scale. Mechanical interrogation of the HJ in
+						three different directions helped elucidate the structures of the
+						transient species populated during its conformational changes.
+						This method of mapping two-dimensional reaction landscapes at low
+						forces is readily applicable to other nucleic acid systems and
+						their interactions with proteins and enzymes.</AbstractText>
+				</Abstract>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Hohng</LastName>
+						<ForeName>Sungchul</ForeName>
+						<Initials>S</Initials>
+						<AffiliationInfo>
+							<Affiliation>Department of Physics, University of Illinois at
+								Urbana-Champaign, Urbana, IL 61801, USA. tjha@uiuc.edgu
+							</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Zhou</LastName>
+						<ForeName>Ruobo</ForeName>
+						<Initials>R</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Nahas</LastName>
+						<ForeName>Michelle K</ForeName>
+						<Initials>MK</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Yu</LastName>
+						<ForeName>Jin</ForeName>
+						<Initials>J</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Schulten</LastName>
+						<ForeName>Klaus</ForeName>
+						<Initials>K</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Lilley</LastName>
+						<ForeName>David M J</ForeName>
+						<Initials>DM</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Ha</LastName>
+						<ForeName>Taekjip</ForeName>
+						<Initials>T</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<GrantList CompleteYN="Y">
+					<Grant>
+						<GrantID>11722</GrantID>
+						<Agency>Cancer Research UK</Agency>
+						<Country>United Kingdom</Country>
+					</Grant>
+					<Grant>
+						<GrantID>GM065367</GrantID>
+						<Acronym>GM</Acronym>
+						<Agency>NIGMS NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>R01 GM065367</GrantID>
+						<Acronym>GM</Acronym>
+						<Agency>NIGMS NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+				</GrantList>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+					<PublicationType UI="D052061">Research Support, N.I.H.,
+						Extramural</PublicationType>
+					<PublicationType UI="D013485">Research Support, Non-U.S.
+						Gov't</PublicationType>
+					<PublicationType UI="D013486">Research Support, U.S. Gov't,
+						Non-P.H.S.</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D045566">DNA, Cruciform</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D004279">DNA, Viral</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<CommentsCorrectionsList>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Proc Natl Acad Sci U S A. 2000 Apr 11;97(8):3971-6</RefSource>
+					<PMID Version="1">10760268</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Phys Rev Lett. 2000 May 22;84(21):5014-7</RefSource>
+					<PMID Version="1">10990855</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Q Rev Biophys. 2000 May;33(2):109-59</RefSource>
+					<PMID Version="1">11131562</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Science. 2001 Apr 27;292(5517):733-7</RefSource>
+					<PMID Version="1">11326101</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Annu Rev Biophys Biomol Struct. 2001;30:87-104</RefSource>
+					<PMID Version="1">11340053</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Methods. 2001 Sep;25(1):78-86</RefSource>
+					<PMID Version="1">11558999</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nat Struct Biol. 2003 Feb;10(2):93-7</RefSource>
+					<PMID Version="1">12496933</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Annu Rev Biochem. 2004;73:705-48</RefSource>
+					<PMID Version="1">15189157</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>J Biol. 2003;2(1):6</RefSource>
+					<PMID Version="1">12733997</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nat Struct Mol Biol. 2004 Oct;11(10):1008-14</RefSource>
+					<PMID Version="1">15448679</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Proc Natl Acad Sci U S A. 1967 Aug;58(2):719-26</RefSource>
+					<PMID Version="1">5233469</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Cell. 1988 Oct 7;55(1):79-89</RefSource>
+					<PMID Version="1">3167979</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Science. 1994 Sep 9;265(5178):1599-600</RefSource>
+					<PMID Version="1">8079175</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Proc Natl Acad Sci U S A. 1996 Jun 25;93(13):6264-8</RefSource>
+					<PMID Version="1">8692803</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Biochemistry. 1998 Jan 6;37(1):23-32</RefSource>
+					<PMID Version="1">9425022</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Cell. 1998 Jan 23;92(2):161-71</RefSource>
+					<PMID Version="1">9458041</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nucleic Acids Res. 2004;32(22):6683-95</RefSource>
+					<PMID Version="1">15613597</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nano Lett. 2005 Jul;5(7):1509-14</RefSource>
+					<PMID Version="1">16178266</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nature. 2006 Jan 5;439(7072):100-4</RefSource>
+					<PMID Version="1">16397501</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nature. 2006 Feb 2;439(7076):621-4</RefSource>
+					<PMID Version="1">16452983</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Biophys J. 2006 Sep 1;91(5):1941-51</RefSource>
+					<PMID Version="1">16766620</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nat Methods. 2006 Nov;3(11):891-3</RefSource>
+					<PMID Version="1">17013382</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Science. 2006 Nov 10;314(5801):1001-4</RefSource>
+					<PMID Version="1">17095702</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Science. 2006 Nov 17;314(5802):1144-7</RefSource>
+					<PMID Version="1">17110578</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Angew Chem Int Ed Engl. 2007;46(12):1999-2001</RefSource>
+					<PMID Version="1">17279589</PMID>
+				</CommentsCorrections>
+			</CommentsCorrectionsList>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D010582">Bacteriophage
+						lambda</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D055592">Biophysical
+						Phenomena</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D001703">Biophysics</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D045566">DNA, Cruciform</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D004279">DNA, Viral</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D031541">Fluorescence
+						Resonance Energy Transfer</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D009690">Nucleic Acid
+						Conformation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D052898">Optical Tweezers</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+			<OtherID Source="NLM">NIHMS437736</OtherID>
+			<OtherID Source="NLM">PMC3558530</OtherID>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>13</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>27</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>13</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">318/5848/279</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1146113</ArticleId>
+				<ArticleId IdType="pubmed">17932299</ArticleId>
+				<ArticleId IdType="pmc">PMC3558530</ArticleId>
+				<ArticleId IdType="mid">NIHMS437736</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">17932254</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>11</Month>
+				<Day>16</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>12</Month>
+				<Day>06</Day>
+			</DateCompleted>
+			<Article PubModel="Print-Electronic">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5853</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Nov</Month>
+							<Day>16</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>The genomic landscapes of human breast and colorectal
+					cancers.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>1108-13</MedlinePgn>
+				</Pagination>
+				<Abstract>
+					<AbstractText>Human cancer is caused by the accumulation of
+						mutations in oncogenes and tumor suppressor genes. To catalog the
+						genetic changes that occur during tumorigenesis, we isolated DNA
+						from 11 breast and 11 colorectal tumors and determined the
+						sequences of the genes in the Reference Sequence database in these
+						samples. Based on analysis of exons representing 20,857
+						transcripts from 18,191 genes, we conclude that the genomic
+						landscapes of breast and colorectal cancers are composed of a
+						handful of commonly mutated gene &quot;mountains&quot; and a much
+						larger number of gene &quot;hills&quot; that are mutated at low
+						frequency. We describe statistical and bioinformatic tools that
+						may help identify mutations with a role in tumorigenesis. These
+						results have implications for understanding the nature and
+						heterogeneity of human cancers and for using personal genomics for
+						tumor diagnosis and therapy.</AbstractText>
+				</Abstract>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Wood</LastName>
+						<ForeName>Laura D</ForeName>
+						<Initials>LD</Initials>
+						<AffiliationInfo>
+							<Affiliation>Ludwig Center for Cancer Genetics and Therapeutics
+								and Howard Hughes Medical Institute at Johns Hopkins Kimmel
+								Cancer Center, Baltimore, MD 21231, USA.</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Parsons</LastName>
+						<ForeName>D Williams</ForeName>
+						<Initials>DW</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Jones</LastName>
+						<ForeName>Siân</ForeName>
+						<Initials>S</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Lin</LastName>
+						<ForeName>Jimmy</ForeName>
+						<Initials>J</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Sjöblom</LastName>
+						<ForeName>Tobias</ForeName>
+						<Initials>T</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Leary</LastName>
+						<ForeName>Rebecca J</ForeName>
+						<Initials>RJ</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Shen</LastName>
+						<ForeName>Dong</ForeName>
+						<Initials>D</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Boca</LastName>
+						<ForeName>Simina M</ForeName>
+						<Initials>SM</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Barber</LastName>
+						<ForeName>Thomas</ForeName>
+						<Initials>T</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Ptak</LastName>
+						<ForeName>Janine</ForeName>
+						<Initials>J</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Silliman</LastName>
+						<ForeName>Natalie</ForeName>
+						<Initials>N</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Szabo</LastName>
+						<ForeName>Steve</ForeName>
+						<Initials>S</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Dezso</LastName>
+						<ForeName>Zoltan</ForeName>
+						<Initials>Z</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Ustyanksky</LastName>
+						<ForeName>Vadim</ForeName>
+						<Initials>V</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Nikolskaya</LastName>
+						<ForeName>Tatiana</ForeName>
+						<Initials>T</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Nikolsky</LastName>
+						<ForeName>Yuri</ForeName>
+						<Initials>Y</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Karchin</LastName>
+						<ForeName>Rachel</ForeName>
+						<Initials>R</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Wilson</LastName>
+						<ForeName>Paul A</ForeName>
+						<Initials>PA</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Kaminker</LastName>
+						<ForeName>Joshua S</ForeName>
+						<Initials>JS</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Zhang</LastName>
+						<ForeName>Zemin</ForeName>
+						<Initials>Z</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Croshaw</LastName>
+						<ForeName>Randal</ForeName>
+						<Initials>R</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Willis</LastName>
+						<ForeName>Joseph</ForeName>
+						<Initials>J</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Dawson</LastName>
+						<ForeName>Dawn</ForeName>
+						<Initials>D</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Shipitsin</LastName>
+						<ForeName>Michail</ForeName>
+						<Initials>M</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Willson</LastName>
+						<ForeName>James K V</ForeName>
+						<Initials>JK</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Sukumar</LastName>
+						<ForeName>Saraswati</ForeName>
+						<Initials>S</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Polyak</LastName>
+						<ForeName>Kornelia</ForeName>
+						<Initials>K</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Park</LastName>
+						<ForeName>Ben Ho</ForeName>
+						<Initials>BH</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Pethiyagoda</LastName>
+						<ForeName>Charit L</ForeName>
+						<Initials>CL</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Pant</LastName>
+						<ForeName>P V Krishna</ForeName>
+						<Initials>PV</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Ballinger</LastName>
+						<ForeName>Dennis G</ForeName>
+						<Initials>DG</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Sparks</LastName>
+						<ForeName>Andrew B</ForeName>
+						<Initials>AB</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Hartigan</LastName>
+						<ForeName>James</ForeName>
+						<Initials>J</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Smith</LastName>
+						<ForeName>Douglas R</ForeName>
+						<Initials>DR</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Suh</LastName>
+						<ForeName>Erick</ForeName>
+						<Initials>E</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Papadopoulos</LastName>
+						<ForeName>Nickolas</ForeName>
+						<Initials>N</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Buckhaults</LastName>
+						<ForeName>Phillip</ForeName>
+						<Initials>P</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Markowitz</LastName>
+						<ForeName>Sanford D</ForeName>
+						<Initials>SD</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Parmigiani</LastName>
+						<ForeName>Giovanni</ForeName>
+						<Initials>G</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Kinzler</LastName>
+						<ForeName>Kenneth W</ForeName>
+						<Initials>KW</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Velculescu</LastName>
+						<ForeName>Victor E</ForeName>
+						<Initials>VE</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Vogelstein</LastName>
+						<ForeName>Bert</ForeName>
+						<Initials>B</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<GrantList CompleteYN="Y">
+					<Grant>
+						<GrantID>CA 43460</GrantID>
+						<Acronym>CA</Acronym>
+						<Agency>NCI NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>CA 57345</GrantID>
+						<Acronym>CA</Acronym>
+						<Agency>NCI NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>CA109274</GrantID>
+						<Acronym>CA</Acronym>
+						<Agency>NCI NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>CA112828</GrantID>
+						<Acronym>CA</Acronym>
+						<Agency>NCI NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>CA121113</GrantID>
+						<Acronym>CA</Acronym>
+						<Agency>NCI NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>CA62924</GrantID>
+						<Acronym>CA</Acronym>
+						<Agency>NCI NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>GM070219</GrantID>
+						<Acronym>GM</Acronym>
+						<Agency>NIGMS NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>GM07309</GrantID>
+						<Acronym>GM</Acronym>
+						<Agency>NIGMS NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>P30-CA43703</GrantID>
+						<Acronym>CA</Acronym>
+						<Agency>NCI NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>RR017698</GrantID>
+						<Acronym>RR</Acronym>
+						<Agency>NCRR NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+				</GrantList>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+					<PublicationType UI="D052061">Research Support, N.I.H.,
+						Extramural</PublicationType>
+					<PublicationType UI="D013485">Research Support, Non-U.S.
+						Gov't</PublicationType>
+					<PublicationType UI="D013486">Research Support, U.S. Gov't,
+						Non-P.H.S.</PublicationType>
+				</PublicationTypeList>
+				<ArticleDate DateType="Electronic">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>11</Day>
+				</ArticleDate>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D004273">DNA, Neoplasm</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D009363">Neoplasm Proteins</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<CommentsCorrectionsList>
+				<CommentsCorrections RefType="CommentIn">
+					<RefSource>Science. 2007 Nov 16;318(5853):1079-80</RefSource>
+					<PMID Version="1">18006731</PMID>
+				</CommentsCorrections>
+			</CommentsCorrectionsList>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002874">Chromosome
+						Mapping</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D015179">Colorectal
+						Neoplasms</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D019295">Computational
+						Biology</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D004273">DNA, Neoplasm</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D030541">Databases,
+						Genetic</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D052138">Genes, Neoplasm</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D015894">Genome, Human</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D053858">Metabolic
+						Networks and Pathways</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009154">Mutation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009363">Neoplasm
+						Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D017422">Sequence
+						Analysis, DNA</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="aheadofprint">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>11</Day>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>13</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>7</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>13</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">1145720</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1145720</ArticleId>
+				<ArticleId IdType="pubmed">17932254</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">17916735</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>10</Month>
+				<Day>05</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>10</Month>
+				<Day>16</Day>
+			</DateCompleted>
+			<DateRevised>
+				<Year>2014</Year>
+				<Month>09</Month>
+				<Day>08</Day>
+			</DateRevised>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5847</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Oct</Month>
+							<Day>5</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Glia promote local synaptogenesis through UNC-6
+					(netrin) signaling in C. elegans.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>103-6</MedlinePgn>
+				</Pagination>
+				<Abstract>
+					<AbstractText>Neural circuits are assembled through the coordinated
+						innervation of pre- and postsynaptic partners. We show that
+						connectivity between two interneurons, AIY and RIA, in
+						Caenorhabditis elegans is orchestrated by a pair of glial cells
+						that express UNC-6 (netrin). In the postsynaptic neuron RIA, the
+						netrin receptor UNC-40 (DCC, deleted in colorectal cancer) plays a
+						conventional guidance role, directing outgrowth of the RIA process
+						ventrally toward the glia. In the presynaptic neuron AIY, UNC-40
+						(DCC) plays an unexpected and previously uncharacterized role: It
+						cell-autonomously promotes assembly of presynaptic terminals in
+						the immediate vicinity of the glial cell endfeet. These results
+						indicate that netrin can be used both for guidance and local
+						synaptogenesis and suggest that glial cells can function as
+						guideposts during the assembly of neural circuits in vivo.
+					</AbstractText>
+				</Abstract>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Colón-Ramos</LastName>
+						<ForeName>Daniel A</ForeName>
+						<Initials>DA</Initials>
+						<AffiliationInfo>
+							<Affiliation>Department of Biological Sciences, Stanford
+								University, 144 Herrin Laboratories, Stanford, CA 94305-5020,
+								USA.</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Margeta</LastName>
+						<ForeName>Milica A</ForeName>
+						<Initials>MA</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Shen</LastName>
+						<ForeName>Kang</ForeName>
+						<Initials>K</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<GrantList CompleteYN="Y">
+					<Grant>
+						<GrantID>GM007365</GrantID>
+						<Acronym>GM</Acronym>
+						<Agency>NIGMS NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>K99 NS057931</GrantID>
+						<Acronym>NS</Acronym>
+						<Agency>NINDS NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>K99 NS057931-01</GrantID>
+						<Acronym>NS</Acronym>
+						<Agency>NINDS NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+					<Grant>
+						<GrantID>K99 NS057931-01</GrantID>
+						<Acronym>NS</Acronym>
+						<Agency>NINDS NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+				</GrantList>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+					<PublicationType UI="D052061">Research Support, N.I.H.,
+						Extramural</PublicationType>
+					<PublicationType UI="D013485">Research Support, Non-U.S.
+						Gov't</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D029742">Caenorhabditis elegans Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D015815">Cell Adhesion Molecules</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D009419">Nerve Tissue Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C102174">UNC-40 protein, C elegans</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C078146">UNC-6 protein, C elegans</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<CommentsCorrectionsList>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Cell. 2000 Dec 8;103(6):945-56</RefSource>
+					<PMID Version="1">11136979</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Development. 2003 Oct;130(20):4761-8</RefSource>
+					<PMID Version="1">12952898</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Neuroscientist. 2004 Aug;10(4):304-14</RefSource>
+					<PMID Version="1">15271258</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Cold Spring Harb Symp Quant Biol. 1983;48 Pt 2:633-40</RefSource>
+					<PMID Version="1">6586380</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Neuron. 1990 Jan;4(1):61-85</RefSource>
+					<PMID Version="1">2310575</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Neuron. 1996 Jan;16(1):35-46</RefSource>
+					<PMID Version="1">8562088</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Cell. 1996 Oct 18;87(2):175-85</RefSource>
+					<PMID Version="1">8861902</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Cell. 1996 Oct 18;87(2):187-95</RefSource>
+					<PMID Version="1">8861903</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Cold Spring Harb Symp Quant Biol. 1997;62:467-78</RefSource>
+					<PMID Version="1">9598381</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Cell. 1998 May 15;93(4):581-91</RefSource>
+					<PMID Version="1">9604933</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>J Neurosci. 1999 Jun 1;19(11):4407-20</RefSource>
+					<PMID Version="1">10341242</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Neuron. 2005 Jan 20;45(2):189-92</RefSource>
+					<PMID Version="1">15664170</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Cell. 2005 Feb 11;120(3):421-33</RefSource>
+					<PMID Version="1">15707899</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Annu Rev Neurosci. 2005;28:251-74</RefSource>
+					<PMID Version="1">16022596</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Curr Opin Neurobiol. 2005 Oct;15(5):542-8</RefSource>
+					<PMID Version="1">16144764</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Cell Mol Life Sci. 2005 Dec;62(23):2811-27</RefSource>
+					<PMID Version="1">16237499</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nat Neurosci. 2006 Feb;9(2):188-94</RefSource>
+					<PMID Version="1">16429137</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Development. 2006 Mar;133(5):823-32</RefSource>
+					<PMID Version="1">16439476</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Curr Opin Neurobiol. 2006 Feb;16(1):67-73</RefSource>
+					<PMID Version="1">16377177</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Curr Opin Neurobiol. 2006 Feb;16(1):119-25</RefSource>
+					<PMID Version="1">16387489</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nat Neurosci. 2006 Apr;9(4):511-8</RefSource>
+					<PMID Version="1">16520734</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Physiol Rev. 2006 Jul;86(3):1009-31</RefSource>
+					<PMID Version="1">16816144</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Curr Opin Neurobiol. 2006 Oct;16(5):529-34</RefSource>
+					<PMID Version="1">16935486</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Curr Opin Neurobiol. 2006 Oct;16(5):522-8</RefSource>
+					<PMID Version="1">16935487</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>J Neurosci. 2007 Jan 10;27(2):331-40</RefSource>
+					<PMID Version="1">17215394</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nat Neurosci. 2007 Mar;10(3):331-9</RefSource>
+					<PMID Version="1">17310248</PMID>
+				</CommentsCorrections>
+			</CommentsCorrectionsList>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D030801">Animals,
+						Genetically Modified</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D001369">Axons</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000648">ultrastructure</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D017173">Caenorhabditis
+						elegans</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D029742">Caenorhabditis
+						elegans Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D015815">Cell Adhesion
+						Molecules</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D007395">Interneurons</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000648">ultrastructure</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009419">Nerve Tissue
+						Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009457">Neuroglia</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D015398">Signal
+						Transduction</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D013569">Synapses</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+			</MeshHeadingList>
+			<OtherID Source="NLM">NIHMS140573</OtherID>
+			<OtherID Source="NLM">PMC2741089</OtherID>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>6</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>17</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>6</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">318/5847/103</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1143762</ArticleId>
+				<ArticleId IdType="pubmed">17916735</ArticleId>
+				<ArticleId IdType="pmc">PMC2741089</ArticleId>
+				<ArticleId IdType="mid">NIHMS140573</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">17916724</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>10</Month>
+				<Day>05</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>10</Month>
+				<Day>16</Day>
+			</DateCompleted>
+			<DateRevised>
+				<Year>2014</Year>
+				<Month>09</Month>
+				<Day>04</Day>
+			</DateRevised>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5847</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Oct</Month>
+							<Day>5</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Deconstructing the hedgehog pathway in development and
+					disease.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>66-8</MedlinePgn>
+				</Pagination>
+				<Abstract>
+					<AbstractText>The Hedgehog (Hh) family of secreted signaling
+						proteins is a master regulator of cell fate determination in
+						metazoans, contributing to both pattern formation during embryonic
+						development and postembryonic tissue homeostasis. In a universally
+						used mode of action, graded distribution of Hh protein induces
+						differential cell fate in a dose-dependent manner in cells that
+						receive Hh. Though much of this pathway has been elucidated from
+						genetically based studies in model organisms, such as Drosophila
+						and mice, the importance of Hh-mediated signaling in humans is
+						clearly evident from malformations and a broad range of cancers
+						that arise when the pathway is corrupted.</AbstractText>
+				</Abstract>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Jacob</LastName>
+						<ForeName>Leni</ForeName>
+						<Initials>L</Initials>
+						<AffiliationInfo>
+							<Affiliation>Department of Cell Biology, University of Texas
+								Southwestern Medical Center, Dallas, TX 75390, USA.
+							</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Lum</LastName>
+						<ForeName>Lawrence</ForeName>
+						<Initials>L</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<GrantList CompleteYN="Y">
+					<Grant>
+						<GrantID>R01 GM076398</GrantID>
+						<Acronym>GM</Acronym>
+						<Agency>NIGMS NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+				</GrantList>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+					<PublicationType UI="D052061">Research Support, N.I.H.,
+						Extramural</PublicationType>
+					<PublicationType UI="D013485">Research Support, Non-U.S.
+						Gov't</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D029721">Drosophila Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D053823">Hedgehog Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D011956">Receptors, Cell Surface</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D043562">Receptors, G-Protein-Coupled</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C099744">patched receptors</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>149291-21-4</RegistryNumber>
+					<NameOfSubstance UI="C077245">hedgehog protein, Drosophila</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<CommentsCorrectionsList>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Genes Dev. 2007 Aug 1;21(15):1949-63</RefSource>
+					<PMID Version="1">17671093</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Science. 2007 Jul 20;317(5836):372-6</RefSource>
+					<PMID Version="1">17641202</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Sci STKE. 2007 Oct 9;2007(407):cm6</RefSource>
+					<PMID Version="1">17925577</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Sci STKE. 2007 Oct 9;2007(407):cm7</RefSource>
+					<PMID Version="1">17925578</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Development. 2006 Jan;133(1):3-14</RefSource>
+					<PMID Version="1">16339192</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nature. 2002 Aug 22;418(6900):892-7</RefSource>
+					<PMID Version="1">12192414</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Science. 2004 Jun 18;304(5678):1755-9</RefSource>
+					<PMID Version="1">15205520</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nature. 2004 Nov 18;432(7015):324-31</RefSource>
+					<PMID Version="1">15549094</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Nature. 2005 May 5;435(7038):58-65</RefSource>
+					<PMID Version="1">15875013</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Dev Cell. 2006 Feb;10(2):177-86</RefSource>
+					<PMID Version="1">16459297</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Dev Cell. 2006 Feb;10(2):187-97</RefSource>
+					<PMID Version="1">16459298</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Cell. 2006 Apr 21;125(2):343-57</RefSource>
+					<PMID Version="1">16630821</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Dev Cell. 2006 May;10(5):647-56</RefSource>
+					<PMID Version="1">16647304</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Proc Natl Acad Sci U S A. 2006 May 30;103(22):8408-13</RefSource>
+					<PMID Version="1">16707575</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Proc Natl Acad Sci U S A. 2006 Nov 14;103(46):17208-13</RefSource>
+					<PMID Version="1">17077139</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Proc Natl Acad Sci U S A. 2007 Mar 6;104(10):4048-53</RefSource>
+					<PMID Version="1">17360475</PMID>
+				</CommentsCorrections>
+				<CommentsCorrections RefType="Cites">
+					<RefSource>Curr Biol. 2007 Aug 7;17(15):1326-33</RefSource>
+					<PMID Version="1">17658259</PMID>
+				</CommentsCorrections>
+			</CommentsCorrectionsList>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002490">Central Nervous
+						System</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000196">embryology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002923">Cilia</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D029721">Drosophila
+						Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D053823">Hedgehog
+						Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008954">Models,
+						Biological</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D011956">Receptors, Cell
+						Surface</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D043562">Receptors,
+						G-Protein-Coupled</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D015398">Signal
+						Transduction</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+			<OtherID Source="NLM">NIHMS515565</OtherID>
+			<OtherID Source="NLM">PMC3791603</OtherID>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>6</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>17</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>6</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">318/5847/66</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1147314</ArticleId>
+				<ArticleId IdType="pubmed">17916724</ArticleId>
+				<ArticleId IdType="pmc">PMC3791603</ArticleId>
+				<ArticleId IdType="mid">NIHMS515565</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">17916722</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>10</Month>
+				<Day>05</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>10</Month>
+				<Day>16</Day>
+			</DateCompleted>
+			<DateRevised>
+				<Year>2013</Year>
+				<Month>11</Month>
+				<Day>21</Day>
+			</DateRevised>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5847</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Oct</Month>
+							<Day>5</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Life with oxygen.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>62-4</MedlinePgn>
+				</Pagination>
+				<Abstract>
+					<AbstractText>The survival of all metazoan organisms is dependent
+						on the regulation of O2 delivery and utilization to maintain a
+						balance between the generation of energy and production of
+						potentially toxic oxidants. Hypoxia-inducible factor 1 (HIF-1) is
+						a transcription factor that functions as a master regulator of
+						oxygen homeostasis and has essential roles in metazoan
+						development, physiology, and disease pathogenesis. Remarkable
+						progress has been made in delineating the molecular mechanisms
+						whereby changes in cellular oxygenation are transduced to the
+						nucleus as changes in gene transcription through the activity of
+						HIF-1. Pharmacologic agents that activate or inhibit the hypoxia
+						signal transduction pathway may be useful therapies for ischemic
+						and neoplastic disorders, respectively, which are the major causes
+						of mortality in industrialized societies.</AbstractText>
+				</Abstract>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Semenza</LastName>
+						<ForeName>Gregg L</ForeName>
+						<Initials>GL</Initials>
+						<AffiliationInfo>
+							<Affiliation>Department of Pediatrics, Johns Hopkins University
+								School of Medicine, Broadway Research Building, Suite 671, 733
+								North Broadway, Baltimore, MD 21205, USA. gsemenza@jhmi.edu
+							</Affiliation>
+						</AffiliationInfo>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+					<PublicationType UI="D052061">Research Support, N.I.H.,
+						Extramural</PublicationType>
+					<PublicationType UI="D013485">Research Support, Non-U.S.
+						Gov't</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D051793">Hypoxia-Inducible Factor 1</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>S88TT14065</RegistryNumber>
+					<NameOfSubstance UI="D010100">Oxygen</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D005075">Biological
+						Evolution</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D015687">Cell Hypoxia</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D004734">Energy
+						Metabolism</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D005786">Gene Expression
+						Regulation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006706">Homeostasis</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D051793">Hypoxia-Inducible
+						Factor 1</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+					<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D007511">Ischemia</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D010100">Oxygen</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D015398">Signal
+						Transduction</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D014158">Transcription,
+						Genetic</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>6</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>17</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>6</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">318/5847/62</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1147949</ArticleId>
+				<ArticleId IdType="pubmed">17916722</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">17916692</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>11</Month>
+				<Day>02</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>11</Month>
+				<Day>23</Day>
+			</DateCompleted>
+			<Article PubModel="Print-Electronic">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>318</Volume>
+						<Issue>5851</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Nov</Month>
+							<Day>2</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Telomeric repeat containing RNA and RNA surveillance
+					factors at mammalian chromosome ends.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>798-801</MedlinePgn>
+				</Pagination>
+				<Abstract>
+					<AbstractText>Telomeres, the DNA-protein complexes located at the
+						end of linear eukaryotic chromosomes, are essential for chromosome
+						stability. Until now, telomeres have been considered to be
+						transcriptionally silent. We demonstrate that mammalian telomeres
+						are transcribed into telomeric repeat-containing RNA (TERRA).
+						TERRA molecules are heterogeneous in length, are transcribed from
+						several subtelomeric loci toward chromosome ends, and localize to
+						telomeres. We also show that suppressors with morphogenetic
+						defects in genitalia (SMG) proteins, which are effectors of
+						nonsense-mediated messenger RNA decay, are enriched at telomeres
+						in vivo, negatively regulate TERRA association with chromatin, and
+						protect chromosome ends from telomere loss. Thus, telomeres are
+						actively transcribed into TERRA, and SMG factors represent a
+						molecular link between TERRA regulation and the maintenance of
+						telomere integrity.</AbstractText>
+				</Abstract>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Azzalin</LastName>
+						<ForeName>Claus M</ForeName>
+						<Initials>CM</Initials>
+						<AffiliationInfo>
+							<Affiliation>Swiss Institute for Experimental Cancer Research
+								(ISREC), CH-1066 Epalinges, Switzerland.</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Reichenbach</LastName>
+						<ForeName>Patrick</ForeName>
+						<Initials>P</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Khoriauli</LastName>
+						<ForeName>Lela</ForeName>
+						<Initials>L</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Giulotto</LastName>
+						<ForeName>Elena</ForeName>
+						<Initials>E</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Lingner</LastName>
+						<ForeName>Joachim</ForeName>
+						<Initials>J</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+					<PublicationType UI="D013485">Research Support, Non-U.S.
+						Gov't</PublicationType>
+				</PublicationTypeList>
+				<ArticleDate DateType="Electronic">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>04</Day>
+				</ArticleDate>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>63231-63-0</RegistryNumber>
+					<NameOfSubstance UI="D012313">RNA</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>EC 2.7.7.49</RegistryNumber>
+					<NameOfSubstance UI="D019098">Telomerase</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000595">Amino Acid
+						Sequence</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D015152">Blotting,
+						Northern</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002877">Chromosomes,
+						Human</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D033481">Chromosomes,
+						Mammalian</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006367">HeLa Cells</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D017404">In Situ
+						Hybridization, Fluorescence</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008969">Molecular
+						Sequence Data</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D011506">Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D012313">RNA</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D012091">Repetitive
+						Sequences, Nucleic Acid</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D019098">Telomerase</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D016615">Telomere</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D014158">Transcription,
+						Genetic</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D014407">Tumor Cells,
+						Cultured</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="aheadofprint">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>4</Day>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>6</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2007</Year>
+					<Month>12</Month>
+					<Day>6</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>6</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">1147182</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1147182</ArticleId>
+				<ArticleId IdType="pubmed">17916692</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">17901337</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>09</Month>
+				<Day>28</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>10</Month>
+				<Day>12</Day>
+			</DateCompleted>
+			<DateRevised>
+				<Year>2007</Year>
+				<Month>11</Month>
+				<Day>14</Day>
+			</DateRevised>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>317</Volume>
+						<Issue>5846</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Sep</Month>
+							<Day>28</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>The slit receptor EVA-1 coactivates a SAX-3/Robo
+					mediated guidance signal in C. elegans.</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>1934-8</MedlinePgn>
+				</Pagination>
+				<Abstract>
+					<AbstractText>The SAX-3/roundabout (Robo) receptor has
+						SLT-1/Slit-dependent and -independent functions in guiding cell
+						and axon migrations. We identified enhancer of ventral-axon
+						guidance defects of unc-40 mutants (EVA-1) as a Caenorhabditis
+						elegans transmembrane receptor for SLT-1. EVA-1 has two predicted
+						galactose-binding ectodomains, acts cell-autonomously for
+						SLT-1/Slit-dependent axon migration functions of SAX-3/Robo, binds
+						to SLT-1 and SAX-3, colocalizes with SAX-3 on cells, and provides
+						cell specificity to the activation of SAX-3 signaling by SLT-1.
+						Double mutants of eva-1 or slt-1 with sax-3 mutations suggest that
+						SAX-3 can (when slt-1 or eva-1 function is reduced) inhibit a
+						parallel-acting guidance mechanism, which involves UNC-40/deleted
+						in colorectal cancer.</AbstractText>
+				</Abstract>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Fujisawa</LastName>
+						<ForeName>Kazuko</ForeName>
+						<Initials>K</Initials>
+						<AffiliationInfo>
+							<Affiliation>Samuel Lunenfeld Research Institute of Mount Sinai
+								Hospital, 600 University Avenue, Toronto, Ontario M5G 1X5,
+								Canada.</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Wrana</LastName>
+						<ForeName>Jeffrey L</ForeName>
+						<Initials>JL</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Culotti</LastName>
+						<ForeName>Joseph G</ForeName>
+						<Initials>JG</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<DataBankList CompleteYN="Y">
+					<DataBank>
+						<DataBankName>GENBANK</DataBankName>
+						<AccessionNumberList>
+							<AccessionNumber>AF358257</AccessionNumber>
+							<AccessionNumber>AF358258</AccessionNumber>
+						</AccessionNumberList>
+					</DataBank>
+					<DataBank>
+						<DataBankName>RefSeq</DataBankName>
+						<AccessionNumberList>
+							<AccessionNumber>NP_493590</AccessionNumber>
+						</AccessionNumberList>
+					</DataBank>
+				</DataBankList>
+				<GrantList CompleteYN="Y">
+					<Grant>
+						<GrantID>NS41397</GrantID>
+						<Acronym>NS</Acronym>
+						<Agency>NINDS NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+				</GrantList>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+					<PublicationType UI="D052061">Research Support, N.I.H.,
+						Extramural</PublicationType>
+					<PublicationType UI="D013485">Research Support, Non-U.S.
+						Gov't</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<ChemicalList>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D029742">Caenorhabditis elegans Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D002352">Carrier Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C523438">EVA-1 protein, C elegans</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D009419">Nerve Tissue Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D011971">Receptors, Immunologic</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="D011993">Recombinant Fusion Proteins</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C490016">roundabout protein</NameOfSubstance>
+				</Chemical>
+				<Chemical>
+					<RegistryNumber>0</RegistryNumber>
+					<NameOfSubstance UI="C492285">slt-1 protein, C elegans</NameOfSubstance>
+				</Chemical>
+			</ChemicalList>
+			<CitationSubset>IM</CitationSubset>
+			<CommentsCorrectionsList>
+				<CommentsCorrections RefType="ErratumIn">
+					<RefSource>Science. 2007 Oct 26;318(5850):570</RefSource>
+				</CommentsCorrections>
+			</CommentsCorrectionsList>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000595">Amino Acid
+						Sequence</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D030801">Animals,
+						Genetically Modified</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D001369">Axons</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D017173">Caenorhabditis
+						elegans</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000254">growth &amp;
+						development</QualifierName>
+					<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D029742">Caenorhabditis
+						elegans Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002352">Carrier Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+					<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002465">Cell Movement</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D003001">Cloning,
+						Molecular</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008969">Molecular
+						Sequence Data</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009154">Mutation</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009419">Nerve Tissue
+						Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009420">Nervous System</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000254">growth &amp;
+						development</QualifierName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D009474">Neurons</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D017434">Protein
+						Structure, Tertiary</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D011971">Receptors,
+						Immunologic</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D011993">Recombinant
+						Fusion Proteins</DescriptorName>
+					<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D015398">Signal
+						Transduction</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>9</Month>
+					<Day>29</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>13</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>9</Month>
+					<Day>29</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">317/5846/1934</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1144874</ArticleId>
+				<ArticleId IdType="pubmed">17901337</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+	<PubmedArticle>
+		<MedlineCitation Owner="NLM" Status="MEDLINE">
+			<PMID Version="1">17901318</PMID>
+			<DateCreated>
+				<Year>2007</Year>
+				<Month>09</Month>
+				<Day>28</Day>
+			</DateCreated>
+			<DateCompleted>
+				<Year>2007</Year>
+				<Month>10</Month>
+				<Day>12</Day>
+			</DateCompleted>
+			<DateRevised>
+				<Year>2007</Year>
+				<Month>12</Month>
+				<Day>03</Day>
+			</DateRevised>
+			<Article PubModel="Print">
+				<Journal>
+					<ISSN IssnType="Electronic">1095-9203</ISSN>
+					<JournalIssue CitedMedium="Internet">
+						<Volume>317</Volume>
+						<Issue>5846</Issue>
+						<PubDate>
+							<Year>2007</Year>
+							<Month>Sep</Month>
+							<Day>28</Day>
+						</PubDate>
+					</JournalIssue>
+					<Title>Science (New York, N.Y.)</Title>
+					<ISOAbbreviation>Science</ISOAbbreviation>
+				</Journal>
+				<ArticleTitle>Relevance. Pharmacology in the high-school classroom.
+				</ArticleTitle>
+				<Pagination>
+					<MedlinePgn>1871-2</MedlinePgn>
+				</Pagination>
+				<AuthorList CompleteYN="Y">
+					<Author ValidYN="Y">
+						<LastName>Kwiek</LastName>
+						<ForeName>Nicole C</ForeName>
+						<Initials>NC</Initials>
+						<AffiliationInfo>
+							<Affiliation>Department of Pharmacology and Cancer Biology, Duke
+								University Medical Center, Durham, NC 27710, USA.</Affiliation>
+						</AffiliationInfo>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Halpin</LastName>
+						<ForeName>Myra J</ForeName>
+						<Initials>MJ</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Reiter</LastName>
+						<ForeName>Jerome P</ForeName>
+						<Initials>JP</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Hoeffler</LastName>
+						<ForeName>Leanne A</ForeName>
+						<Initials>LA</Initials>
+					</Author>
+					<Author ValidYN="Y">
+						<LastName>Schwartz-Bloom</LastName>
+						<ForeName>Rochelle D</ForeName>
+						<Initials>RD</Initials>
+					</Author>
+				</AuthorList>
+				<Language>eng</Language>
+				<GrantList CompleteYN="Y">
+					<Grant>
+						<GrantID>DA10904</GrantID>
+						<Acronym>DA</Acronym>
+						<Agency>NIDA NIH HHS</Agency>
+						<Country>United States</Country>
+					</Grant>
+				</GrantList>
+				<PublicationTypeList>
+					<PublicationType UI="D016428">Journal Article</PublicationType>
+					<PublicationType UI="D052061">Research Support, N.I.H.,
+						Extramural</PublicationType>
+				</PublicationTypeList>
+			</Article>
+			<MedlineJournalInfo>
+				<Country>United States</Country>
+				<MedlineTA>Science</MedlineTA>
+				<NlmUniqueID>0404511</NlmUniqueID>
+				<ISSNLinking>0036-8075</ISSNLinking>
+			</MedlineJournalInfo>
+			<CitationSubset>IM</CitationSubset>
+			<MeshHeadingList>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D001695">Biology</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000193">education</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D002621">Chemistry</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000193">education</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D003479">Curriculum</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D004521">Educational
+						Measurement</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D010600">Pharmacology</DescriptorName>
+					<QualifierName MajorTopicYN="Y" UI="Q000193">education</QualifierName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="Y" UI="D012574">Schools</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" UI="D013663">Teaching</DescriptorName>
+				</MeshHeading>
+				<MeshHeading>
+					<DescriptorName MajorTopicYN="N" Type="Geographic"
+						UI="D014481">United States</DescriptorName>
+				</MeshHeading>
+			</MeshHeadingList>
+		</MedlineCitation>
+		<PubmedData>
+			<History>
+				<PubMedPubDate PubStatus="pubmed">
+					<Year>2007</Year>
+					<Month>9</Month>
+					<Day>29</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="medline">
+					<Year>2007</Year>
+					<Month>10</Month>
+					<Day>13</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+				<PubMedPubDate PubStatus="entrez">
+					<Year>2007</Year>
+					<Month>9</Month>
+					<Day>29</Day>
+					<Hour>9</Hour>
+					<Minute>0</Minute>
+				</PubMedPubDate>
+			</History>
+			<PublicationStatus>ppublish</PublicationStatus>
+			<ArticleIdList>
+				<ArticleId IdType="pii">317/5846/1871</ArticleId>
+				<ArticleId IdType="doi">10.1126/science.1146811</ArticleId>
+				<ArticleId IdType="pubmed">17901318</ArticleId>
+			</ArticleIdList>
+		</PubmedData>
+	</PubmedArticle>
+</PubmedArticleSet>

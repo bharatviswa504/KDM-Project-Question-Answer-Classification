@@ -1,0 +1,1 @@
+What is wireless networking?,"wireless networking uses IEEE 802.11b/g networks to connect PC/portables with wireless adapter to connect on a network. It is often used in airports, academic campuses to allow portable computers to connect to the Internet with the hassles of the wires. Thanks Shyam Varan Nath http://www.Greatechss.com"
